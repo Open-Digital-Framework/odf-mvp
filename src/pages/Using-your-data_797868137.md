@@ -6,8 +6,7 @@ layout: ../layouts/MainLayout.astro
 
 Shelter’s digital framework adheres to the charity’s [Privacy Policy](https://england.shelter.org.uk/contact_us/privacy) and [Cookies Policy](https://england.shelter.org.uk/contact_us/cookies).
 
-Privacy
--------
+## Privacy
 
 We are committed to protecting your data and privacy, and pride ourselves on taking great care to ensure it stays completely safe.
 
@@ -17,8 +16,7 @@ We promise we’ll never share or sell your personal data to a third-party organ
 
 [**Read Shelter’s full Privacy Policy**](https://england.shelter.org.uk/contact_us/privacy)
 
-Cookies
--------
+## Cookies
 
 We use cookies to collect browser data when you visit our website. We don’t use cookies to identify users personally. We only store information that you've specifically given us permission to store.
 

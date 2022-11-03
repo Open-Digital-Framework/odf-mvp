@@ -4,8 +4,7 @@ description: Images and video
 layout: ../layouts/MainLayout.astro
 ---
 
-Images
-------
+## Images
 
 It’s important to find the right balance between image size, resolution, and file size. This ensures images don’t appear pixelated and they don’t make the email slow to load.
 
@@ -37,7 +36,7 @@ Padded section images
 
 ### Finding images
 
-If you require imagery for a specific purpose, you can check [Story House](https://imagehouse.shelter.org.uk/login.php?url=%2Fpages%2Fhome.php&amp;nocookies=true) for a library of our assets. Please be conscious of the usage restrictions for each file. Chosen images should follow [the brand guidelines](https://design.shelter.org.uk/digital-framework/imagery). If in doubt, check with the case studies and/or Brand team.
+If you require imagery for a specific purpose, you can check [Story House](https://imagehouse.shelter.org.uk/login.php?url=%2Fpages%2Fhome.php&nocookies=true) for a library of our assets. Please be conscious of the usage restrictions for each file. Chosen images should follow [the brand guidelines](https://design.shelter.org.uk/digital-framework/imagery). If in doubt, check with the case studies and/or Brand team.
 
 ### Image considerations
 
@@ -51,8 +50,7 @@ Alt text should clearly describe what is displayed in an image. It’s an essent
 
 Alt text example: A group of people smiling around a table
 
-Videos
-------
+## Videos
 
 We can’t embed videos into Adobe, so we have to use a screenshot of the video, and link the image to the actual video, or we can use a gif to give a taster of the video.
 
@@ -60,18 +58,16 @@ Screenshots of videos should always have a ‘play’ button so it’s explicitl
 
 Videos included in emails should follow [the brand guidelines](https://design.shelter.org.uk/digital-framework/moving-image). To learn more, view our [video production guides](https://design.shelter.org.uk/digital-framework/Video-production-guides.769622161.html).
 
-* * *
+---
 
-Related
--------
+## Related
 
 Read our other [content guides](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/442138636)
 
 Read our [brand guidelines](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/760676531)
 
-* * *
+---
 
-Contact us
-----------
+## Contact us
 
 Have a question or comment about email or other digital topic? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.

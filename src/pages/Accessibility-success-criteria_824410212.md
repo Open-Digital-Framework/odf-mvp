@@ -6,10 +6,9 @@ layout: ../layouts/MainLayout.astro
 
 As an organisation, we have a [legal obligation](https://cielo24.com/2016/12/uk-web-accessibility-law/) to ensure the digital products and services we produce are accessible to anyone who requires them.
 
-The list below covers the success criteria to meet certain levels (A, AA or AAA) across a range of principles. For a more detailed overview of what accessibility is and how we can implement accessible features, read [our guidance and best practice](666501133.html) or visit the [WCAG website](https://www.w3.org/WAI/fundamentals/accessibility-intro/). 
+The list below covers the success criteria to meet certain levels (A, AA or AAA) across a range of principles. For a more detailed overview of what accessibility is and how we can implement accessible features, read [our guidance and best practice](666501133.html) or visit the [WCAG website](https://www.w3.org/WAI/fundamentals/accessibility-intro/).
 
-WCAG 2.1
---------
+## WCAG 2.1
 
 [https://www.w3.org/TR/WCAG21/](https://www.w3.org/TR/WCAG21/)
 
@@ -23,8 +22,7 @@ WCAG 2.1
 
 **Covered by**
 
-**Perceivable**
----------------
+## **Perceivable**
 
 Information and UI components must be presentable to users in ways they can understand.
 
@@ -36,19 +34,14 @@ A
 
 Non-text content should have a text alternative that serves the equivalent purpose, except for the following cases:
 
-*   Controls and inputs that accept user input should have a name that describes its purpose
-    
-*   Time based media should at least provide descriptive identification of the non-text-content
-    
-*   Captcha’s should be identified and alternative forms of captcha provided to accommodate different disabilities
-    
-*   Purely decorative content should be implemented in a way that is ignored by assistive technologies
-    
+- Controls and inputs that accept user input should have a name that describes its purpose
+- Time based media should at least provide descriptive identification of the non-text-content
+- Captcha’s should be identified and alternative forms of captcha provided to accommodate different disabilities
+- Purely decorative content should be implemented in a way that is ignored by assistive technologies
 
 Developers, Content Designers/Editors
 
-**Time-based media**
---------------------
+## **Time-based media**
 
 Alternatives to time-based media should be provided
 
@@ -78,8 +71,7 @@ Audio descriptions should be provided for prerecorded video content
 
 Video/Creative
 
-**Adaptable**
--------------
+## **Adaptable**
 
 It should be possible to present content in different ways without losing information or structure
 
@@ -99,7 +91,7 @@ Meaningful sequence
 
 A
 
-Screen-readers should follow a meaningful reading sequence 
+Screen-readers should follow a meaningful reading sequence
 
 Developers (with aid by UX)
 
@@ -111,18 +103,12 @@ A
 
 Instructions provided for understanding or operating content should not rely solely on sensory characteristics of components such as:
 
-*   Shape
-    
-*   Colour
-    
-*   Size
-    
-*   Visual location
-    
-*   Orientation
-    
-*   Sound
-    
+- Shape
+- Colour
+- Size
+- Visual location
+- Orientation
+- Sound
 
 UX and Content Designers/Editors
 
@@ -156,8 +142,7 @@ UI components, icons and regions should be implemented in a way that assistive t
 
 Developers (+UX and Creative to supply icons)
 
-**Distinguishable**
--------------------
+## **Distinguishable**
 
 It should be easy for users to distinguish content, including separating foreground from background
 
@@ -169,12 +154,9 @@ AA, AAA
 
 Text should have a contrast ratio of at least 4.5:1 (AA) or 7:1 (AAA), except for the following cases:
 
-*   Large-scale text can have a contrast ratio of 3:1 (AA) or 4.5:1 (AAA)
-    
-*   Text that is part of an inactive UI component that is purely decorative
-    
-*   Text that is part of a logo or brand name
-    
+- Large-scale text can have a contrast ratio of 3:1 (AA) or 4.5:1 (AAA)
+- Text that is part of an inactive UI component that is purely decorative
+- Text that is part of a logo or brand name
 
 UX
 
@@ -200,29 +182,20 @@ AAA
 
 Blocks of text should:
 
-*   Have a mechanism to allow foreground and background colours to be selected by the user
-    
-*   Be no more than 80 characters in width
-    
-*   Not be justified
-    
-*   Have line-spacing of at least a space-and-a-half within paragraphs, and paragraph spacing at least 1.5 larger than line spacing
-    
-*   Allow for text to be resized without assistive technology up to 200% in a way that does not require the user to scroll horizontally to read a line of text on a full-screen window
-    
+- Have a mechanism to allow foreground and background colours to be selected by the user
+- Be no more than 80 characters in width
+- Not be justified
+- Have line-spacing of at least a space-and-a-half within paragraphs, and paragraph spacing at least 1.5 larger than line spacing
+- Allow for text to be resized without assistive technology up to 200% in a way that does not require the user to scroll horizontally to read a line of text on a full-screen window
 
-1.4.12
+  1.4.12
 
 AA
 
-*   Line height (line spacing) should be at least 1.5 times the font size
-    
-*   Spacing following paragraphs should be at least 2 times the font size
-    
-*   Letter spacing (tracking) should be at least 0.12 times the font size
-    
-*   Word spacing should be at least 0.16 times the font size
-    
+- Line height (line spacing) should be at least 1.5 times the font size
+- Spacing following paragraphs should be at least 2 times the font size
+- Letter spacing (tracking) should be at least 0.12 times the font size
+- Word spacing should be at least 0.16 times the font size
 
 UX
 
@@ -232,19 +205,14 @@ Additional content shown on hover/focus
 
 AA
 
-*   A mechanism should be available to dismiss additional content without moving pointer hover or keyboard focus
-    
-*   Additional content should not obscure or replace other content, unless the additional content indicates an input error
-    
-*   Additional content shown on hover should remain open when the pointer is moved over it
-    
-*   Additional content should remain visible until the hover or focus trigger is removed, the user dismisses it, or its information is no longer valid
-    
+- A mechanism should be available to dismiss additional content without moving pointer hover or keyboard focus
+- Additional content should not obscure or replace other content, unless the additional content indicates an input error
+- Additional content shown on hover should remain open when the pointer is moved over it
+- Additional content should remain visible until the hover or focus trigger is removed, the user dismisses it, or its information is no longer valid
 
 Developers (with aid by UX)
 
-**Operable**
-------------
+## **Operable**
 
 User interface components and navigation must be operable
 
@@ -266,8 +234,7 @@ There should be no keyboard traps
 
 Developers
 
-**Enough time**
----------------
+## **Enough time**
 
 Provide users enough time to read and use content
 
@@ -283,23 +250,17 @@ UX
 
 For each time limit set on content at least one of the following should be available:
 
-*   Turn off time limit
-    
-*   Adjust time limit
-    
-*   Extend time limit
-    
+- Turn off time limit
+- Adjust time limit
+- Extend time limit
 
 Exceptions:
 
-*   Real-time events i.e. auctions
-    
-*   Time limit is essential
-    
-*   The time limit is longer than 20 hours
-    
+- Real-time events i.e. auctions
+- Time limit is essential
+- The time limit is longer than 20 hours
 
-2.2.2
+  2.2.2
 
 Moving, blinking, scrolling or auto-updating content
 
@@ -307,21 +268,16 @@ A
 
 For any moving, blinking or scrolling information that
 
-*   starts automatically
-    
-*   lasts more than five seconds
-    
-*   is presented in parallel with other content
-    
+- starts automatically
+- lasts more than five seconds
+- is presented in parallel with other content
 
 there should be a mechanism for the user to pause, stop, or hide it, unless it is essential.
 
 For any auto-updating information that
 
-*   starts automatically
-    
-*   is presented in parallel with other content
-    
+- starts automatically
+- is presented in parallel with other content
 
 there should be a mechanism for the user to pause, stop, or hide it or to control the frequency of the update, unless the auto-updating is essential
 
@@ -357,8 +313,7 @@ AAA
 
 Users are warned of the duration of any user inactivity that could cause data loss, unless the data is preserved for more than 20 hours
 
-**Seizures and Physical reactions**
------------------------------------
+## **Seizures and Physical reactions**
 
 Do not design content in a way that is known to cause seizures or physical reactions
 
@@ -378,8 +333,7 @@ AAA
 
 It should be possible to disable any motion animation triggered by interaction
 
-**Navigable**
--------------
+## **Navigable**
 
 Provide ways to help users navigate, find content, and determine where they are
 
@@ -459,8 +413,7 @@ AAA
 
 Section headings and titles are used to organise the content
 
-**Input Modalities**
---------------------
+## **Input Modalities**
 
 Make it easier for users to operate functionality through various inputs beyond keyboard
 
@@ -480,14 +433,10 @@ A
 
 For functionality that can be operated using a single pointer, at least one of the following should be true:
 
-*   The down event (touch-start/ mouse-down) should not be used to execute any part of the function
-    
-*   Completion of the function is on the up-event (touch-end/ mouse-up), and a mechanism is available to abort the function before completion or undo the function after completion
-    
-*   The up event should reverse any outcome of the preceding up event
-    
-*   Completing the function on the down event is essential
-    
+- The down event (touch-start/ mouse-down) should not be used to execute any part of the function
+- Completion of the function is on the up-event (touch-end/ mouse-up), and a mechanism is available to abort the function before completion or undo the function after completion
+- The up event should reverse any outcome of the preceding up event
+- Completing the function on the down event is essential
 
 Developers
 
@@ -509,14 +458,11 @@ AAA
 
 The size of targets should be at least 44x44px (or equivalent), except when:
 
-*   The target is available through an equivalent link or control on the same page that is at least 44 by 44 CSS pixels
-    
-*   The target is in a sentence or block of text
-    
-*   A particular presentation of the target is essential to the information being conveyed
-    
+- The target is available through an equivalent link or control on the same page that is at least 44 by 44 CSS pixels
+- The target is in a sentence or block of text
+- A particular presentation of the target is essential to the information being conveyed
 
-2.5.6
+  2.5.6
 
 Input mechanisms
 
@@ -524,15 +470,11 @@ AAA
 
 Web content should not restrict a user's input mechanisms, except when restriction is:
 
-*   Essential
-    
-*   Required to ensure security
-    
-*   Required to respect user settings
-    
+- Essential
+- Required to ensure security
+- Required to respect user settings
 
-**Readable**
-------------
+## **Readable**
 
 Make text content readable and understandable.
 
@@ -552,14 +494,10 @@ AA
 
 The human language of each passage or phrase should be programmatically determined in a way that assistive technologies understand, except for:
 
-*   Proper names
-    
-*   Technical terms
-    
-*   Words of indeterminate language
-    
-*   Words or phrases that have become a part of the vernacular of the immediately surrounding text
-    
+- Proper names
+- Technical terms
+- Words of indeterminate language
+- Words or phrases that have become a part of the vernacular of the immediately surrounding text
 
 See comment
 
@@ -575,8 +513,7 @@ AAA
 
 A mechanism should be available for expanding meaning of abbreviations
 
-**Predictable**
----------------
+## **Predictable**
 
 Make Web pages appear and operate in predictable ways
 
@@ -667,21 +604,15 @@ AA, AAA
 At least one of the following should be true…  
 (AA) For Web pages that:
 
-*   cause legal commitments or financial transactions
-    
-*   modify or delete user-controllable data
-    
-*   submit user test responses
-    
+- cause legal commitments or financial transactions
+- modify or delete user-controllable data
+- submit user test responses
 
 (AAA) For all Web pages that require the user to submit information…
 
-*   Submissions should be reversible
-    
-*   User inputted data should be validated and the user provided an opportunity to correct them
-    
-*   A mechanism should be available for reviewing, confirming, and correcting information before finalising the submission
-    
+- Submissions should be reversible
+- User inputted data should be validated and the user provided an opportunity to correct them
+- A mechanism should be available for reviewing, confirming, and correcting information before finalising the submission
 
 Developers
 
@@ -693,8 +624,7 @@ AAA
 
 Help text that provides information related to the function currently being performed should be available
 
-**Robust**
-----------
+## **Robust**
 
 Content must be robust and compatible enough that it can be interpreted by a wide variety of current and future user agents, including assistive technologies
 
@@ -706,14 +636,10 @@ A
 
 Markup should be valid and well formed. Except where the specifications allow these features, elements should:
 
-*   have complete start and end tags
-    
-*   be nested according to their specifications
-    
-*   not contain duplicate attributes
-    
-*   have unique ID's
-    
+- have complete start and end tags
+- be nested according to their specifications
+- not contain duplicate attributes
+- have unique ID's
 
 Developers
 
@@ -735,8 +661,7 @@ Status messages should be presented to the user by assistive technology without 
 
 Developers & UX
 
-Other accessibility guides
---------------------------
+## Other accessibility guides
 
 ![](images/icons/grey_arrow_down.png)Shelter’s accessibility guidance and best practices
 
@@ -750,18 +675,16 @@ Editorial skills play a big part in removing barriers for users with disabilitie
 
 Shelter’s social channels are vital to our ability to reach people facing homelessness or experiencing bad housing, as well as appeal to people hoping to support our work. It’s crucial that our social content is accessible, and [this guide explains the best practices](Social-media-and-accessibility_842596355.html).
 
-* * *
+---
 
-Related
--------
+## Related
 
 Read our other [content guides](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/442138636)
 
 Read our [brand guidelines](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/760676531)
 
-* * *
+---
 
-Contact us
-----------
+## Contact us
 
 Have a question or comment about accessibility or other digital topic? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.

@@ -14,8 +14,7 @@ Supers can be used to provide additional information such as an interviewee’s 
 
 ![Screen capture of a Shelter video with the super 'Over 17 million of us don't have a safe or secure home'](attachments/598933686/795672610.png)
 
-Three rules of thumb for writing supers
----------------------------------------
+## Three rules of thumb for writing supers
 
 Please ensure all copy is written to meet our [brand guidelines](Our-brand-guidelines_760676531.html).
 
@@ -25,7 +24,7 @@ Onscreen copy should not appear when there is spoken dialogue. Viewers are gener
 
 ### 2\. Reading speed
 
-Keep your onscreen text simple and short. The average reading speed reduces from 200-240 words per minute for static text, such as a book, to 120 words per minute when reading within a video. Take this into account when writing your copy for video, use simple plain language, and refine the text to the minimum word count to communicate with optimum meaning and clarity. 
+Keep your onscreen text simple and short. The average reading speed reduces from 200-240 words per minute for static text, such as a book, to 120 words per minute when reading within a video. Take this into account when writing your copy for video, use simple plain language, and refine the text to the minimum word count to communicate with optimum meaning and clarity.
 
 ### 3\. Call-to-action
 
@@ -33,8 +32,7 @@ Your call-to-action (CTA) should be clear and strong. Don’t be afraid to be pl
 
 ![Sample super of a video saying 'Join us'](attachments/598933686/797835313.jpg)
 
-How to design supers
---------------------
+## How to design supers
 
 The Creative team cannot always respond to requests, so it’s useful to know what good looks like.  
 All titles, text and graphics should be designed in line with our [house brand](Our-brand-guidelines_760676531.html), and to communicate clearly and directly with the viewer.
@@ -43,21 +41,16 @@ All titles, text and graphics should be designed in line with our [house brand](
 
 Shelter has created a human approach to how we speak and use typography, using two styles that strike different tones:
 
-*   **By your side** - To show people we care and we’re ‘By your side’. To strike this gentler tone, set your text in sentence case and use a smaller font size
-    
-*   **IN YOUR FACE** \- To confront the viewer or show excitement and energy. When you need to speak loudly, use Barlow Condensed Bold. When you need to emphasise or add extra meaning, use Shelter Activist
-    
+- **By your side** - To show people we care and we’re ‘By your side’. To strike this gentler tone, set your text in sentence case and use a smaller font size
+- **IN YOUR FACE** \- To confront the viewer or show excitement and energy. When you need to speak loudly, use Barlow Condensed Bold. When you need to emphasise or add extra meaning, use Shelter Activist
 
 ### Typography fonts
 
 Shelter’s house font [Barlow](https://fonts.google.com/specimen/Barlow) is free to download from Google Fonts. We use Barlow in three weights:
 
-*   **Semibold** \- recommended for video
-    
-*   **Regular** - used for bi-lines (see the example below showing a Lower Third)
-    
-*   **Extra Light** \- the lightest weight, not generally recommended for video supers
-    
+- **Semibold** \- recommended for video
+- **Regular** - used for bi-lines (see the example below showing a Lower Third)
+- **Extra Light** \- the lightest weight, not generally recommended for video supers
 
 **Barlow Condensed Bold** is used in upper case when we want to sound loud, energised and ‘IN YOUR FACE’.
 
@@ -94,14 +87,10 @@ When adding text directly to video, your choice of background footage is key to 
 
 Choose footage that:
 
-*   doesn't contain distracting movement
-    
-*   has tone and saturation that doesn’t reduce text readability
-    
-*   has composition which doesn’t fight with your text
-    
-*   contains elements to support your story, without being distracting
-    
+- doesn't contain distracting movement
+- has tone and saturation that doesn’t reduce text readability
+- has composition which doesn’t fight with your text
+- contains elements to support your story, without being distracting
 
 Ensure text stands out clearly in the foreground, with appropriate typography and layout. You can use the [Squint Test](https://www.getfeedback.com/resources/ux/the-squint-test-how-quick-exposure-to-design-can-reveal-its-flaws/) to assess what is known as a designs visual hierarchy and that text is communicating clearly and effectively.
 
@@ -119,8 +108,7 @@ Choose the appropriate typography style, formatting and alignment for your video
 
 ![Video still shows a lower-third. The main title typeface is Barlow Semibold, the bi-line is Barlow regular. Type size 75pt.](attachments/598933686/795803741.jpg)
 
-Using lower thirds
-------------------
+## Using lower thirds
 
 A **lower third** is a combination of text and graphic elements placed in the lower area of the video frame, to provide additional information - most commonly the name and title of a person on-camera.
 
@@ -128,8 +116,7 @@ It's generally best to keep copy as brief as possible, so it’s easy to read an
 
 All elements of the lower third should work together to add to the visuals, not distract from them, and their design should be in line with [Shelter’s brand guidelines](https://shelteruk.sharepoint.com/sites/CandD/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCandD%2FShared%20Documents%2FContent%20Team%2FStyle%20Guides%2FContent%20guidance%20docs%20%2D%20audit%2FBrand%20guidelines%2Epdf&parent=%2Fsites%2FCandD%2FShared%20Documents%2FContent%20Team%2FStyle%20Guides%2FContent%20guidance%20docs%20%2D%20audit).
 
-Other video guides
-------------------
+## Other video guides
 
 ![](images/icons/grey_arrow_down.png)Filming basics, a practical guide
 
@@ -144,7 +131,7 @@ All video produced for Shelter’s channels must have captions (subtitles). This
 ![](images/icons/grey_arrow_down.png)Case study videos
 
 This guide will help filmmakers and partners produce stories in Shelter’s style of observational and participatory documentary videos.  
-[Read more](630358245.html) 
+[Read more](630358245.html)
 
 ![](images/icons/grey_arrow_down.png)How to commission a video
 
@@ -156,46 +143,41 @@ If you’re commissioning a video using Shelter’s video team or external filmm
 A range of mandatory docs (such as a COVID statement), guides and tools for your production.  
 [Read more](Essential-production-documents_807633054.html)
 
-* * *
+---
 
-Related
--------
+## Related
 
 Our [digital glossary](https://design.shelter.org.uk/digital-framework/Shelter's-digital-glossary.712245258.html) demystifies a range of digital phrases and roles.
 
 Read [our brand guidelines](Our-brand-guidelines_760676531.html)
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.ad our other [content guides](Guides_442138636.html)
 
-  
-
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [Image from iOS (18).jpg](attachments/598933686/599064722.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-15 at 11.36.04.png](attachments/598933686/599032152.png) (image/png)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-12 at 16.00.29.png](attachments/598933686/598999402.png) (image/png)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-12 at 16.22.48.png](attachments/598933686/598999424.png) (image/png)  
-![](images/icons/bullet_blue.gif) [LEGACYS\_LONG\_DONE New end.00\_03\_58\_16.Still001.jpg](attachments/598933686/598999413.jpg) (image/jpeg)  
+![](images/icons/bullet_blue.gif) [LEGACYS_LONG_DONE New end.00_03_58_16.Still001.jpg](attachments/598933686/598999413.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-15 at 11.36.04.png](attachments/598933686/599032110.png) (image/png)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-15 at 11.36.24.png](attachments/598933686/599032187.png) (image/png)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-12 at 16.00.29.png](attachments/598933686/599064824.png) (image/png)  
-![](images/icons/bullet_blue.gif) [Stephen\_subs Export\_B'ham CC .00\_00\_48\_15.Still004.jpg](attachments/598933686/599032171.jpg) (image/jpeg)  
+![](images/icons/bullet_blue.gif) [Stephen_subs Export_B'ham CC .00_00_48_15.Still004.jpg](attachments/598933686/599032171.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-15 at 11.36.24.png](attachments/598933686/599032163.png) (image/png)  
-![](images/icons/bullet_blue.gif) [LEGACYS\_LONG\_DONE New end.00\_03\_58\_16.Still001.jpg](attachments/598933686/598999435.jpg) (image/jpeg)  
+![](images/icons/bullet_blue.gif) [LEGACYS_LONG_DONE New end.00_03_58_16.Still001.jpg](attachments/598933686/598999435.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-12 at 16.22.48.png](attachments/598933686/600211589.png) (image/png)  
-![](images/icons/bullet_blue.gif) [LEGACYS\_LONG\_DONE New end.00\_03\_58\_16.Still001.jpg](attachments/598933686/602505427.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [Stephen\_subs Export\_B'ham CC .00\_00\_48\_18.Still005.jpg](attachments/598933686/600211665.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [LEGACYS\_LONG\_DONE New end.00\_03\_58\_16.Still001.jpg](attachments/598933686/599032126.jpg) (image/jpeg)  
+![](images/icons/bullet_blue.gif) [LEGACYS_LONG_DONE New end.00_03_58_16.Still001.jpg](attachments/598933686/602505427.jpg) (image/jpeg)  
+![](images/icons/bullet_blue.gif) [Stephen_subs Export_B'ham CC .00_00_48_18.Still005.jpg](attachments/598933686/600211665.jpg) (image/jpeg)  
+![](images/icons/bullet_blue.gif) [LEGACYS_LONG_DONE New end.00_03_58_16.Still001.jpg](attachments/598933686/599032126.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [best practise cotrast.jpg](attachments/598933686/618659874.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [centre align.png](attachments/598933686/619184146.png) (image/png)  
-![](images/icons/bullet_blue.gif) [Best practise\_1.png](attachments/598933686/618659901.png) (image/png)  
-![](images/icons/bullet_blue.gif) [Shelter\_Brand\_Guidelines\_2021.pdf](attachments/598933686/759529573.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [Shelter\_Brand\_Guidelines\_2021.pdf](attachments/598933686/759496837.pdf) (application/pdf)  
-![](images/icons/bullet_blue.gif) [Shelter\_Brand\_Guidelines\_2021.pdf](attachments/598933686/760676391.pdf) (application/pdf)  
+![](images/icons/bullet_blue.gif) [Best practise_1.png](attachments/598933686/618659901.png) (image/png)  
+![](images/icons/bullet_blue.gif) [Shelter_Brand_Guidelines_2021.pdf](attachments/598933686/759529573.pdf) (application/pdf)  
+![](images/icons/bullet_blue.gif) [Shelter_Brand_Guidelines_2021.pdf](attachments/598933686/759496837.pdf) (application/pdf)  
+![](images/icons/bullet_blue.gif) [Shelter_Brand_Guidelines_2021.pdf](attachments/598933686/760676391.pdf) (application/pdf)  
 ![](images/icons/bullet_blue.gif) [home run 2.jpg](attachments/598933686/795901989.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [home run barlow.jpg](attachments/598933686/795934764.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [home run barlow.jpg](attachments/598933686/795705405.jpg) (image/jpeg)  
@@ -208,7 +190,7 @@ Attachments:
 ![](images/icons/bullet_blue.gif) [supers 7 copy.jpg](attachments/598933686/795705480.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [supers 8.jpg](attachments/598933686/795705516.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [supers 9 .jpg](attachments/598933686/795934825.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [supers lower third\_02.jpg](attachments/598933686/795803741.jpg) (image/jpeg)  
+![](images/icons/bullet_blue.gif) [supers lower third_02.jpg](attachments/598933686/795803741.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [supers 9 .jpg](attachments/598933686/795902028.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [supers 8.jpg](attachments/598933686/795705490.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [image-20210629-135850.png](attachments/598933686/795803763.png) (image/png)  

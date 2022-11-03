@@ -10,30 +10,20 @@ One of our 10 [working principles](Our-working-principles_404389919.html) is ‘
 
 When we’re creating, operating or planning products and services, we can use those measurements - to check whether we’re on the right path, and to point towards where we can go next.
 
-Why we measure
---------------
+## Why we measure
 
 There are a range of motivations for measuring the success of our digital delivery:
 
-*   To optimise and improve our products and services once they’re live
-    
-*   To learn how users feel about them. An in-depth [understanding of audience needs](Understanding-our-audiences_936935646.html) (especially as needs change), based on both qualitative and quantitative user data, is fundamental to successful digital performance​
-    
-*   To help make decisions about their future - which products and services to keep live and possibly improve, and which ones to decommission
-    
-*   To learn lessons we can apply to other work
-    
-*   To inform [future planning by the business](The-product-planning-approach_936935511.html)
-    
-*   To monitor improvement of our digital performance in support of the organisation’s strategic aims
-    
-*   To test hypotheses and challenge assumptions
-    
-*   And crucially, to understand how our products and services contribute to Shelter’s strategic goals. The [golden thread](Digital-governance_937656407.html) runs through everything we do. Every service or product we launch, no matter how small, needs to connect to Shelter’s biggest goals in our efforts to end the housing emergency
-    
+- To optimise and improve our products and services once they’re live
+- To learn how users feel about them. An in-depth [understanding of audience needs](Understanding-our-audiences_936935646.html) (especially as needs change), based on both qualitative and quantitative user data, is fundamental to successful digital performance​
+- To help make decisions about their future - which products and services to keep live and possibly improve, and which ones to decommission
+- To learn lessons we can apply to other work
+- To inform [future planning by the business](The-product-planning-approach_936935511.html)
+- To monitor improvement of our digital performance in support of the organisation’s strategic aims
+- To test hypotheses and challenge assumptions
+- And crucially, to understand how our products and services contribute to Shelter’s strategic goals. The [golden thread](Digital-governance_937656407.html) runs through everything we do. Every service or product we launch, no matter how small, needs to connect to Shelter’s biggest goals in our efforts to end the housing emergency
 
-How do we measure?
-------------------
+## How do we measure?
 
 In Shelter’s [devolved content manager model](The-devolved-model-of-delivering-digital_416317505.html), teams that own content also own the responsibility for measuring and reporting its success.
 
@@ -43,8 +33,7 @@ The analytics team also manages our Digital Report Centre, providing all Shelter
 
 ![Image of a screen from Shelter's Digital Report Centre](attachments/937656471/937656489.jpg)
 
-Using outside data
-------------------
+## Using outside data
 
 When we design and develop our products and services, it’s valuable for us to inform choices with data and analysis from reliable external sources.
 
@@ -52,10 +41,9 @@ We may draw on datasets that evaluate industry trends - in technology performanc
 
 External data also plays an important role in validating hypotheses during product development, letting us cross-reference our own data.
 
-* * *
+---
 
-Related
--------
+## Related
 
 How we [understand our audiences](Understanding-our-audiences_936935646.html)
 
@@ -63,15 +51,13 @@ The roles that [drive our devolved model](The-roles-that-drive-the-devolved-mode
 
 Shelter’s [business ownership role](Business-ownership-in-practice_937656360.html) in practice
 
-* * *
+---
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
-Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.  
+Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [Angela-daughters.jpg](attachments/937656471/937656486.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [managers dashboard.jpg](attachments/937656471/937656489.jpg) (image/jpeg)  

@@ -8,8 +8,7 @@ Consistent quality is the result of people knowing what it looks like and how to
 
 ![Two men look at information on a computer screen.](attachments/483065869/482967678.jpg)
 
-Section pages
--------------
+## Section pages
 
 ![](images/icons/grey_arrow_down.png)An introduction to our principles, guidelines and standards
 
@@ -41,12 +40,10 @@ Content ops are the people, platforms and processes for making content that meet
 At each level of our digital planning, we keep Shelter’s organisational strategy front-of-mind. Establishing and maintaining that focus gives us a range of benefits in planning, aligning, budgeting, resourcing and prioritising.  
 [Read more](Planning-at-all-levels_936935482.html)
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
-![](images/icons/bullet_blue.gif) [RS28999\_Shelter\_Sheffield@Kate\_Stanworth\_167-scr.jpg](attachments/483065869/482967678.jpg) (image/jpeg)
+![](images/icons/bullet_blue.gif) [RS28999_Shelter_Sheffield@Kate_Stanworth_167-scr.jpg](attachments/483065869/482967678.jpg) (image/jpeg)

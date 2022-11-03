@@ -12,10 +12,9 @@ Within these communications, we encourage people to take actions - for example, 
 
 This guide will help you create emails that are consistent, on-brand and effective. If you have any questions, please email [editorialallusers@shelter.org.uk](mailto:editorialallusers@shelter.org.uk).
 
-In this guide
-=============
+# In this guide
 
-*   [Getting started](Getting-started_982777857.html)
-*   [Design and copywriting for email](Design-and-copywriting-for-email_983138305.html)
-*   [Email styles and formats](Email-styles-and-formats_983171073.html)
-*   [Images and video](Images-and-video_982908931.html)
+- [Getting started](Getting-started_982777857.html)
+- [Design and copywriting for email](Design-and-copywriting-for-email_983138305.html)
+- [Email styles and formats](Email-styles-and-formats_983171073.html)
+- [Images and video](Images-and-video_982908931.html)

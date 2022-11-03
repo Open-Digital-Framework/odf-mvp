@@ -64,8 +64,8 @@ A leading metric is an indicator of a future business or user outcome you are ai
 
 ![](images/icons/grey_arrow_down.png)Lifecycle
 
-The lifecycle addresses the fact that the work doesn’t stop once a product or service is launched, but rather we use the live product to learn from users, improve features, and gain insights that feed back into business planning.  
-  
+The lifecycle addresses the fact that the work doesn’t stop once a product or service is launched, but rather we use the live product to learn from users, improve features, and gain insights that feed back into business planning.
+
 The digital lifecycle has three phases that operate in a continuous loop: 1) Future vision and business planning, 2) Creating a live product or service, 3) Operating a live product or service.  
 [Read more about the lifecycle](The-digital-lifecycle_839647233.html)
 
@@ -125,7 +125,6 @@ An end-to-end user journey that allows supporters and clients to achieve what th
 
 Someone who has something to gain or lose through the success of a piece of work. Consider **partner** for more collaborative relationships.
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.

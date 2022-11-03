@@ -10,8 +10,7 @@ That’s why we established [our digital lifecycle](The-digital-lifecycle_839647
 
 And that’s why, to give our content operations power and sustainability, we’ve established a content lifecycle, covering all phases of content with the same spirit of continual improvement.
 
-The iteration vibration
------------------------
+## The iteration vibration
 
 ‘Iteration’ has long been a common word used by digital teams everywhere, and with good reason. It captures the approach of applying small, focussed improvements to products and services.
 
@@ -19,8 +18,7 @@ We’ve found the content that goes into those products and services is especial
 
 We use live content to generate continuous feedback loops: publish > get user input > iterate. Based on the user feedback, measurement and analysis, and changes to technology or user context, we can improve on live content, update it to stay timely or accurate, use it in new ways or places, [or even retire it](Retiring-content-and-how-to-do-it-right_962199564.html), perhaps replacing it with new content.
 
-Breaking down the stages
-------------------------
+## Breaking down the stages
 
 The content lifecycle comprises five clear stages before it repeats itself:
 
@@ -52,17 +50,15 @@ Shelter works hard to plan products and services that have a [golden thread to o
 
 Our system of [content governance](Content-governance_962232329.html) means all content is reviewed on a quarterly basis. This lets us continually improve the value of content through iteration.
 
-Responsibility
---------------
+## Responsibility
 
 The value of a content lifecycle - or any governance model, for that matter - is only as high as the the accountability of the people involved.
 
 So we’ve made sure that all the various responsibilities within delivery of our content are contained in the roles of each person. Shelter’s content designers, [content managers, and content owners](The-roles-that-drive-the-devolved-model_543555625.html) all understand their part at each point in the lifecycle. We’ve written this into role descriptions and communicated it via Shelter’s broader digital governance structure.
 
-* * *
+---
 
-Related
--------
+## Related
 
 The when, why and how of [retiring content](Retiring-content-and-how-to-do-it-right_962199564.html)
 
@@ -72,13 +68,11 @@ The importance of [content governance](Content-governance_962232329.html)
 
 Why [content ops is the hidden superpower of digital delivery](968392705.html)
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [overgrown-garden.jpg](attachments/962330631/964198461.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Content-lifecycle.jpg](attachments/962330631/965279792.jpg) (image/jpeg)  

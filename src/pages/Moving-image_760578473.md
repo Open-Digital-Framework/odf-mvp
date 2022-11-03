@@ -8,17 +8,15 @@ layout: ../layouts/MainLayout.astro
 
 We recommend also reading [our video production guides](Video-production-guides_769622161.html).
 
-Animation: Logo
----------------
+## Animation: Logo
 
 ![](attachments/760578473/783941635.jpg?width=680)
 
 For [video and social media end-frames](https://design.shelter.org.uk/digital-framework/Moving-image.760578473.html#Movingimage-Endframes), we have an animated version of our logo. Make sure you use this version of the logo when creating video content. Don't forget our logo has purpose and works across both ['dissatisfied' and 'demanding' roles](https://design.shelter.org.uk/digital-framework/Logo.851771512.html#Logo-Roleofthesymbol).
 
-* * *
+---
 
-Animation: Typography
----------------------
+## Animation: Typography
 
 ![](attachments/760578473/783679492.jpg?width=680)
 
@@ -27,13 +25,9 @@ In our animations, we move with purpose and confidence. When animating typograph
 Try to:
 
 1.  move with confidence. To show purpose and to help the viewer read, animate your words one by one
-    
 2.  keep it clear and natural. We want our messaging to stand out and be easily read
-    
 3.  when animating paint brush assets, use texture. Shelter Activist should animate as if the letters were being painted onto the screen
-    
 4.  Shelter Activist animations should look smooth with fluid motion. They should look imperfectly human and have a stylistic analogue look
-    
 
 ### Don’t use standard animation effects
 
@@ -43,10 +37,9 @@ Avoid things like glitches, fade-ups and blurs. Our typography should animate na
 
 For more, [read our typography guidelines](Typography_850395821.html).
 
-* * *
+---
 
-Animation: Brush graphics
--------------------------
+## Animation: Brush graphics
 
 ![](attachments/760578473/783908865.jpg?width=680)
 
@@ -55,9 +48,7 @@ Our brush is handmade, so when you make it move, it has to feel tangible and rea
 Try to:
 
 1.  take care when animating multiple brush graphics. They need to look like they're being painted by the same hand
-    
 2.  aim for a smooth animation that has an analogue style/feel. We want to see graphics appear and animate as if painted by an actual brush
-    
 
 ### Don’t use standard animation effects
 
@@ -65,10 +56,9 @@ Avoid things like glitches, fade-ups and blurs. Our brush should animate natural
 
 ![](attachments/760578473/782860309.jpg?width=204)
 
-* * *
+---
 
-Film: Art direction
--------------------
+## Film: Art direction
 
 ![](attachments/760578473/783974405.jpg?width=680)
 
@@ -79,13 +69,9 @@ To make sure they’re stylistically on-brand, our films should follow our [art 
 For film, we mainly focus on four art direction techniques:
 
 1.  [Use of space](https://design.shelter.org.uk/digital-framework/Imagery.823001089.html#Imagery-Useofspace)
-    
 2.  [Unexpected compositions](https://design.shelter.org.uk/digital-framework/Imagery.823001089.html#Imagery-Unexpectedcompositions)
-    
 3.  [Depth of field](https://design.shelter.org.uk/digital-framework/Imagery.823001089.html#Imagery-Depthoffield)
-    
 4.  [Colour and lighting](https://design.shelter.org.uk/digital-framework/Imagery.823001089.html#Imagery-Colourandlighting)
-    
 
 ### Things to think about
 
@@ -112,15 +98,10 @@ Make sure you set the right pace for the emotion of the story. Our edit structur
 We’re visual storytellers and shoot beautiful sequences to make situations feel emotional and relatable. Always try to:
 
 1.  show the beauty of the environment, with small details and wide shots
-    
 2.  show familiar, relatable and ‘precious’ moments
-    
 3.  find creative ways to get to the heart of the story
-    
 4.  be mindful of objects that detract from the scene or impact of the narrative
-    
 5.  show people’s lives with sensitivity and dignity. Our films don’t invite judgement
-    
 
 #### Animation techniques
 
@@ -138,10 +119,9 @@ And see above for using animation to bring our paint brush assets to life.
 
 When you add music to video, try not to use any tracks that are overly emotive. That said, this rule might change, depending on the narrative. Music and sound design should always be well-balanced. It shouldn’t detract from the dialogue.
 
-* * *
+---
 
-End frames
-----------
+## End frames
 
 ![](attachments/760578473/784072707.jpg?width=680)
 
@@ -161,19 +141,17 @@ We have a [flexible logo system](https://design.shelter.org.uk/digital-framework
 
 ![](attachments/760578473/783843347.jpg?width=272)
 
-* * *
+---
 
-Question about using our brand in moving images?
-------------------------------------------------
+## Question about using our brand in moving images?
 
 [Contact the Shelter marketing team](https://england.shelter.org.uk/contact_our_brand_team)
 
-Read our [video production guides](Video-production-guides_769622161.html) or our other [content guides](Guides_442138636.html)  
+Read our [video production guides](Video-production-guides_769622161.html) or our other [content guides](Guides_442138636.html)
 
-----------------------------------------------------------------------------------------------------------------------------------
+---
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [Moving-image11.jpg](attachments/760578473/760578481.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Moving-image10B.jpg](attachments/760578473/760578484.jpg) (image/jpeg)  

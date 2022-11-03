@@ -13,8 +13,7 @@ It’ll inspire people to join us and let anyone facing a housing problem know t
 
 That’s why, instead of brand guidelines, you should think of this as a guide to helping us stand up to the housing emergency.
 
-Sections
---------
+## Sections
 
 ![](images/icons/grey_arrow_down.png)Introduction
 
@@ -53,17 +52,15 @@ Learn the 3 characteristics of our personality, and how to write about people an
 
 [See how our brand looks](Work-examples_854228993.html), out in the world
 
-* * *
+---
 
-See our [content guides](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/442138636)
------------------------------------------------------------------------------------------
+## See our [content guides](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/442138636)
 
 Read our range of guides to learn Shelter’s house style, how to use case studies, how to write about domestic violence, and more.
 
-Attachments:
-------------
+## Attachments:
 
-![](images/icons/bullet_blue.gif) [Shelter\_Brand\_Guidelines\_2021.pdf](attachments/760676531/760676551.pdf) (application/pdf)  
+![](images/icons/bullet_blue.gif) [Shelter_Brand_Guidelines_2021.pdf](attachments/760676531/760676551.pdf) (application/pdf)  
 ![](images/icons/bullet_blue.gif) [Brand-guidelines-1.jpg](attachments/760676531/760676559.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Brand-guidelines-8.jpg](attachments/760676531/760676617.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Brand-guidelines-6.jpg](attachments/760676531/760676623.jpg) (image/jpeg)  

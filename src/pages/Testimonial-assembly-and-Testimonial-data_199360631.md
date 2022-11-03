@@ -12,17 +12,13 @@ Quotes from real people lend weight to Shelter’s communications. Add images to
 
 To create them, first you build each testimonial using **Data - testimonial**, then you bring them into an **Assembly - testimonial**.
 
-**Creating a Data testimonial**
--------------------------------
+## **Creating a Data testimonial**
 
 1.  Start by using **Add entry** upper right in the content dashboard and select **Data - testimonial**  
     TIP: Quickly filter the list by typing the first three letters of what you need, eg **tes…**
-    
 
 1.  **Name** \- the system name CMS users will see
-    
-2.  **Testimonial image** \- use **Link existing asset** (or use **Create new asset and link** if you’ve done a thorough search and can’t find what you need. Read more about [uploading images to the media library](https://shelteruk.atlassian.net/wiki/spaces/CDP/pages/191169731/Managing+images+and+other+assets+in+the+Media+library).
-    
+1.  **Testimonial image** \- use **Link existing asset** (or use **Create new asset and link** if you’ve done a thorough search and can’t find what you need. Read more about [uploading images to the media library](https://shelteruk.atlassian.net/wiki/spaces/CDP/pages/191169731/Managing+images+and+other+assets+in+the+Media+library).
 
 ![](attachments/199360631/199262336.jpg?width=340)
 
@@ -34,21 +30,14 @@ To create them, first you build each testimonial using **Data - testimonial**, t
 
 7\. **Publish** your testimonial
 
-**Creating a testimonial assembly**
------------------------------------
+## **Creating a testimonial assembly**
 
 1.  Use **Add entry** to select **Assembly - testimonial**
-    
 2.  **Name** - the system name CMS users will see
-    
 3.  **Header text** - if you don’t make the assembly a quote slider, this will display above the testimonials as an H2. For a quote slider it won’t display.
-    
 4.  **Testimonials** - find and add the **Data - testimonial** entries you’ve just created it. Once added, click and drag the left edge of blocks to change their sequence.
-    
 5.  **Quote slider** - select **Yes** to display the testimonials as a series of single images and quotes with a toggle arrow the users clicks to see the series. [See our FOSH page](https://website-assets-6434318868.gtsb.io/support_us/campaigns/a_vision_for_social_housing) for an example.
-    
 6.  **Publish** the assembly. It’s now ready to be added to pages.
-    
 
 ### **NOTE: Controlling image height**
 
@@ -60,8 +49,7 @@ Unlike most of other components and assemblies that allow images, the quote slid
 
 **Any questions?** [Email Lindsay Foley](mailto:lindsay_foley@shelter.org.uk) in the Central Digital team.
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [A vision for social housing- from Shelter - Shelter England 07-08-2020 09-07-04.png](attachments/199360631/199262313.png) (image/png)  
 ![](images/icons/bullet_blue.gif) [A vision for social housing- from Shelter - Shelter England 07-08-2020 09-06-53.png](attachments/199360631/199360640.png) (image/png)  

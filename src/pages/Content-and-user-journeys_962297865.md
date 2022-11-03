@@ -12,8 +12,7 @@ So what does content have to do with a user journey? Everything. It’s the cont
 
 Needless to say, this means we need to give them the best content.
 
-How content makes or breaks a user journey
-------------------------------------------
+## How content makes or breaks a user journey
 
 Since content is the stuff a user journey is made of, its importance is large. The quality of the journey equals the quality of the content.
 
@@ -21,15 +20,11 @@ We know other factors contribute, such as the quality of the user experience and
 
 Broadly, we require our content to be three things:
 
-*   **Valuable** to users in meeting their needs. Our text, images, videos, graphics, calls-to-action and more need to either efficiently move users closer to their goals or successfully achieve their goals.
-    
-*   **Consistent** in its design, writing style and tone. Content does not exist in a vacuum. To anyone interacting with Shelter, digitally or in-person, a single piece of content must look, feel and sound like all other Shelter content. Consistency is non-negotiable.
-    
-*   **Clear** in how it provides information. Lack of clarity is the number one source of frustration for most users. Our text needs to be simple and understandable, and not lengthy.
-    
+- **Valuable** to users in meeting their needs. Our text, images, videos, graphics, calls-to-action and more need to either efficiently move users closer to their goals or successfully achieve their goals.
+- **Consistent** in its design, writing style and tone. Content does not exist in a vacuum. To anyone interacting with Shelter, digitally or in-person, a single piece of content must look, feel and sound like all other Shelter content. Consistency is non-negotiable.
+- **Clear** in how it provides information. Lack of clarity is the number one source of frustration for most users. Our text needs to be simple and understandable, and not lengthy.
 
-The role of context
--------------------
+## The role of context
 
 The other facet of user journeys is context, which we define as the situation or background the user is living with. For Shelter, this includes their housing situation: Are they renting? Do they have landlord issues? Struggling with their council?
 
@@ -39,14 +34,13 @@ And context also applies to the journey itself. Is the user just starting to inv
 
 Before we can create the right content for them, we need to know their context.
 
-Best practices that make the best user journeys
------------------------------------------------
+## Best practices that make the best user journeys
 
 We use a range of methods, tools and practices as we learn what’s needed for a user’s journey and create the content to deliver it.
 
 ![](attachments/962297865/964755479.webp)
 
-**User journey mapping** (or customer journey mapping) - This is an invaluable discovery exercise that creates a visualisation of a user’s current journey. Through research tools such as interviews or diaries, we learn the journey a user follows as they attempt to solve a problem or meet a need.  
+**User journey mapping** (or customer journey mapping) - This is an invaluable discovery exercise that creates a visualisation of a user’s current journey. Through research tools such as interviews or diaries, we learn the journey a user follows as they attempt to solve a problem or meet a need.
 
 With our user research completed, we collaboratively (normally in a workshop) piece together the map, showing a user’s overall goal, their touchpoints (our channels and web pages they visit), what they thought (cognitive) and felt (emotional) at each touchpoint, and the final result of that journey.
 
@@ -66,13 +60,10 @@ But sometimes we don’t need a journey map to spot a friction point. Other type
 
 **Offering clear calls to action** - CTAs are links - in the form of text links or graphic elements like a button - that prompt users to take a specific action. We try to make the wording as simple as possible, with the action and link leading the sentence. Examples:
 
-*   Sign our petition to end the freeze on housing benefit
-    
-*   Read our blog on the housing benefit freeze
-    
+- Sign our petition to end the freeze on housing benefit
+- Read our blog on the housing benefit freeze
 
-One size doesn’t fit all
-------------------------
+## One size doesn’t fit all
 
 Considering user journeys in content operations means thinking about how the whole publishing process fits together, from planning to delivery to measuring performance. It considers how we organise and distribute our content, how the different tools we use work together, and how useable our CMS really is for publishing at scale.
 
@@ -82,10 +73,9 @@ To do this well, we also need to consider the context of our content teams and t
 
 By connecting stakeholders and content teams through streamlined processes and thoughtful technology in this way, we are more effectively prioritising our frontend users.
 
-* * *
+---
 
-Related
--------
+## Related
 
 [What are content operations](https://shelteruk.atlassian.net/wiki/spaces/ETS/pages/960921601) and why are they important?
 
@@ -93,15 +83,13 @@ Read our [guide to writing online content](Writing-online-content_268665002.html
 
 The tools and methods we use to [understand our audiences](Understanding-our-audiences_936935646.html)
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
-![](images/icons/bullet_blue.gif) [User\_Journey\_Map\_FlyUX\_by\_Nancy\_Boshuijs.jpg](attachments/962297865/964460569.jpg) (image/jpeg)  
+![](images/icons/bullet_blue.gif) [User_Journey_Map_FlyUX_by_Nancy_Boshuijs.jpg](attachments/962297865/964460569.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [NN-Group-Customer-Journey-Map.webp](attachments/962297865/964755479.webp) (image/webp)  
 ![](images/icons/bullet_blue.gif) [donate buttons.jpg](attachments/962297865/964427832.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [donate comparison.jpg](attachments/962297865/967507980.jpg) (image/jpeg)

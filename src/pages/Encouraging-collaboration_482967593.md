@@ -8,8 +8,7 @@ Learn the roles within our digital leadership and processes, the methods we use 
 
 ![4 digital workers at Shelter consider diagrams pinned to a board](attachments/482967593/483065947.jpg)
 
-Section pages
--------------
+## Section pages
 
 ![](images/icons/grey_arrow_down.png)Communities of Practice (CoPs)
 
@@ -46,12 +45,10 @@ User research has become the power tool in creating high-value digital - in disc
 Learn all the motivations for measuring how a product or service is performing, and how devolved teams are benefitting.  
 [Read more](Measuring-success_937656471.html)
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [Ale-Jane-Lucy-Tom-standup - Copy.jpg](attachments/482967593/483065947.jpg) (image/jpeg)

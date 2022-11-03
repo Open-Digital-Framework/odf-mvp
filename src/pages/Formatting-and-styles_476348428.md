@@ -10,18 +10,16 @@ Write e.g., i.e., and etc. with full stops. Display NB and PS in capitals, with 
 
 ### Acronyms
 
-Try not to use these. If you need to, write the initials with the name in brackets afterwards – e.g. Office for National Statistics (ONS). Then use the acronym for any other references. 
+Try not to use these. If you need to, write the initials with the name in brackets afterwards – e.g. Office for National Statistics (ONS). Then use the acronym for any other references.
 
 ### Addresses
 
 Please write addresses in two ways, using the best way for what you’re working on:
 
-*   Shelter, 88 Old Street, London, EC1V 9HU
-    
-*   Shelter  
-    88 Old Street  
-    London, EC1V 9HU
-    
+- Shelter, 88 Old Street, London, EC1V 9HU
+- Shelter  
+  88 Old Street  
+  London, EC1V 9HU
 
 ### Bold
 
@@ -35,18 +33,12 @@ Use bullet points instead of numbered lists. Don’t use full-stops or semi-colo
 
 Our standard rules are:
 
-*   **general proper nouns:** the church, the government, the cabinet etc.
-    
-*   **specific proper nouns:** Cabinet Office, Home Office, Church of England etc.
-    
-*   **jobs:** if displayed without a job holder, don’t use capitals – but if displayed with a job holder, do use capitals (e.g. the prime minister, or Prime Minister Boris Johnson)
-    
-*   **teams:** team name is capitalised, ‘team’ isn’t (e.g. Fundraising team)
-    
-*   **headings:** follow colons with a lower-case letter (e.g. Priced out: rising house costs)
-    
-*   **titles:** capitalise the names of reports, reviews etc., but not the noun (e.g. Levison inquiry, Build Social Housing campaign etc.). We don’t capitalise ‘the’ unless the originator wrote it like that or it starts a sentence, e.g. the Shelter Book Club, the BBC etc.
-    
+- **general proper nouns:** the church, the government, the cabinet etc.
+- **specific proper nouns:** Cabinet Office, Home Office, Church of England etc.
+- **jobs:** if displayed without a job holder, don’t use capitals – but if displayed with a job holder, do use capitals (e.g. the prime minister, or Prime Minister Boris Johnson)
+- **teams:** team name is capitalised, ‘team’ isn’t (e.g. Fundraising team)
+- **headings:** follow colons with a lower-case letter (e.g. Priced out: rising house costs)
+- **titles:** capitalise the names of reports, reviews etc., but not the noun (e.g. Levison inquiry, Build Social Housing campaign etc.). We don’t capitalise ‘the’ unless the originator wrote it like that or it starts a sentence, e.g. the Shelter Book Club, the BBC etc.
 
 ### Captions
 
@@ -56,12 +48,9 @@ Where appropriate (e.g. in blogs), place captions below photographs. They should
 
 Write them like this:
 
-*   **general:** 22 November 2019 (no th, rd, or st)
-    
-*   **decades:** 1930s, 1940s
-    
-*   **ranges:** 1989 – 1995, or for the financial year: 2013/14
-    
+- **general:** 22 November 2019 (no th, rd, or st)
+- **decades:** 1930s, 1940s
+- **ranges:** 1989 – 1995, or for the financial year: 2013/14
 
 ### Email addresses
 
@@ -97,14 +86,10 @@ Present measurements in metric. Spell these out in the first instance, then shor
 
 Display as follows:
 
-*   **numerals:** use words for <10, and numerals for >10
-    
-*   **ranges:** use all numerals for number ranges, e.g. 8 – 10-year-olds
-    
-*   **quantifiers:** write in words: million, billion etc. With money, use £3 million (can be shortened where tight on space, e.g. £3m, 1bn users)
-    
-*   don’t begin sentences with numerals (exception: bullet points)
-    
+- **numerals:** use words for <10, and numerals for >10
+- **ranges:** use all numerals for number ranges, e.g. 8 – 10-year-olds
+- **quantifiers:** write in words: million, billion etc. With money, use £3 million (can be shortened where tight on space, e.g. £3m, 1bn users)
+- don’t begin sentences with numerals (exception: bullet points)
 
 ### Percentages
 
@@ -112,14 +97,10 @@ Use numerals and the symbol in copy, e.g. 3%.
 
 ### Place names
 
-*   **Britain:** England, Scotland, and Wales only
-    
-*   **Great Britain:** as above, and all the islands off the coast of Britain - except Ireland
-    
-*   **British Isles:** Britain, all of Ireland, and all the islands off the British and Irish coasts
-    
-*   **United Kingdom:** the British Isles without the Republic of Ireland, e.g. England, Scotland, Wales, and Northern Ireland
-    
+- **Britain:** England, Scotland, and Wales only
+- **Great Britain:** as above, and all the islands off the coast of Britain - except Ireland
+- **British Isles:** Britain, all of Ireland, and all the islands off the British and Irish coasts
+- **United Kingdom:** the British Isles without the Republic of Ireland, e.g. England, Scotland, Wales, and Northern Ireland
 
 We use USA or United States, not America, and Netherlands, not Holland. We use the English spelling for place names, it has been formally renamed.
 
@@ -131,23 +112,20 @@ Use lowercase: winter, spring, summer, and autumn.
 
 Write as follows:
 
-*   use 9am, 9.30am, 9 – 11am rather than nine am, half past nine etc.
-    
+- use 9am, 9.30am, 9 – 11am rather than nine am, half past nine etc.
 
 ### Underline
 
 Underlines should only appear in our content when they are part of a hyperlink. Using them in any other capacity can create a poor user experience, as they are most commonly associated with links.
 
-* * *
+---
 
-Related
--------
+## Related
 
 ### Learn how to use [our brand’s tone of voice](Tone-of-voice_767754297.html)
 
 ### Speak the same language using [our digital glossary](Shelter%27s-digital-glossary_712245258.html)
 
-Contact us
-----------
+## Contact us
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the digital framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.

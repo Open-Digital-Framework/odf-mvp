@@ -18,7 +18,6 @@ We use design thinking frameworks to guide and our ways of working and help us u
 For agencies, freelancers and Shelter staff, this page is a valuable resource, listing what you’ll need to consider before working on our digital products and service.  
 [Read more](Digital-checklist-for-partners-and-staff_862093319.html)
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [Simon-family.jpg](attachments/963608577/967147577.jpg) (image/jpeg)

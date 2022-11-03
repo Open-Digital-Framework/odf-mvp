@@ -10,15 +10,13 @@ Learn the typefaces that are part of Shelter’s brand, and how to use them.![](
 
 We’ve created a human approach to how we speak and use typography.
 
-By your side
-------------
+## By your side
 
 We use this style across a range of channels to show people we care and we’re ‘By your side’.
 
 To strike this gentler tone, set your text in sentence case and use a smaller font size. We recommend Barlow Extra Light, Regular or Semibold.
 
-IN YOUR FACE
-------------
+## IN YOUR FACE
 
 We use this style for moments when we need to be ‘IN YOUR FACE’ – it might be to confront people, or it might be to show excitement and energy.
 
@@ -30,29 +28,21 @@ meaning, use Shelter Activist.
 **'By your side' style**
 
 1.  Barlow Extra Light, Regular or Semibold
-    
 2.  Sentence case
-    
 3.  Smaller typography
-    
 
 ![](attachments/850395821/852623393.jpg?width=680)
 
 **'IN YOUR FACE' style**
 
 1.  Barlow Bold Condensed or Shelter Activist
-    
 2.  Uppercase
-    
 3.  Larger typography
-    
 4.  With/without red brush stroke for interventions/emphasis
-    
 
-* * *
+---
 
-Typeface: Barlow
-----------------
+## Typeface: Barlow
 
 Barlow is our brand typeface. It has a strong relationship between its condensed (see Barlow Condensed Bold below) and its grotesk cuts. This means you can use it to create ‘By your side’ and ‘IN YOUR FACE’ communications.
 
@@ -66,53 +56,38 @@ You can use italics in print publications to cite references, but never within h
 
 ### Leading
 
-*   Text below 36pt = +2pt (e.g. 9pt text would be 11pt leading)
-    
-*   Text above 36pt = please adjust manually. Ascenders and descenders should never touch.
-    
+- Text below 36pt = +2pt (e.g. 9pt text would be 11pt leading)
+- Text above 36pt = please adjust manually. Ascenders and descenders should never touch.
 
 ### Spacing
 
-*   0 letter spacing (tracking)
-    
-*   At larger point sizes, e.g. headlines, you may need to adjust to -10. Set your kerning to ‘optical’
-    
+- 0 letter spacing (tracking)
+- At larger point sizes, e.g. headlines, you may need to adjust to -10. Set your kerning to ‘optical’
 
 ### Digital (website) typefaces
 
 For WCAG AA level accessibility, our website ONLY uses:
 
-*   Barlow Regular
-    
-*   Barlow Bold
-    
+- Barlow Regular
+- Barlow Bold
 
 When choosing fonts, remember that our website has different requirements. We’ll cover these in the next few sections of this page, but if you have any questions, [ask the UX team](mailto:ux@shelter.org.uk).
 
-Digital font sizes:   
+Digital font sizes:
 
-*   H1 on desktop 50 / leading 65 
-    
-*   H1 on mobile 36 / leading 46.8 
-    
-*   H2 36 / leading 46.8 
-    
-*   H2 on mobile 28 / leading 36.4  
-    
-*   H3 25 / leading 35 
-    
-*   H4 21 / leading 29.4  
-    
-*   body 18 / leading 25.2  
-    
-*   small 14 / leading 19.6 
-    
-*   system 12 / leading 16.8   
-    
+- H1 on desktop 50 / leading 65
+- H1 on mobile 36 / leading 46.8
+- H2 36 / leading 46.8
+- H2 on mobile 28 / leading 36.4
+- H3 25 / leading 35
+- H4 21 / leading 29.4
+- body 18 / leading 25.2
+- small 14 / leading 19.6
+- system 12 / leading 16.8
 
 We no longer use bold as a default for headers. Bold should only be used when we want to **draw attention to content.** Uppercase should only be used sparingly on Digital
 
-For further information, visit [our Digital UI Kit](https://www.figma.com/file/vH0UlrkKDtDrgdJhDkwSS6/Shelter-UI-kit).  
+For further information, visit [our Digital UI Kit](https://www.figma.com/file/vH0UlrkKDtDrgdJhDkwSS6/Shelter-UI-kit).
 
 **Barlow Semibold (NOT for use on our website - use Barlow Bold as a replacement):**
 
@@ -126,25 +101,19 @@ For further information, visit [our Digital UI Kit](https://www.figma.com/file/v
 
 ![](attachments/850395821/851935927.jpg?width=680)
 
-* * *
+---
 
-Typeface: Barlow Condensed Bold
--------------------------------
+## Typeface: Barlow Condensed Bold
 
 Barlow Condensed Bold is used when we want to sound loud, energised and 'IN YOUR FACE'.
 
 Offline, we use it in uppercase – in headlines or to interact with our red brush stroke. Here are a few examples of when we might use this typeface:
 
 1.  [Interacting with our symbol to show positive change](https://design.shelter.org.uk/digital-framework/Logo.851771512.html#Logo-Roleofthesymbol)
-    
 2.  [Typographic interventions: with characters](https://design.shelter.org.uk/digital-framework/Typography.850395821.html#Typography-Typographicinterventions:withcharacters)
-    
 3.  [Typographic interventions: with punctuation](https://design.shelter.org.uk/digital-framework/Typography.850395821.html#Typography-Typographicinterventions:withpunctuation)
-    
 4.  [Typographic interventions: with words](https://design.shelter.org.uk/digital-framework/Typography.850395821.html#Typography-Typographicinterventions:withwords)
-    
 5.  [Typographic interventions: with brush graphics](https://design.shelter.org.uk/digital-framework/Brush-graphics.851771393.html#Brushgraphics-Brushinterventions:withtype)
-    
 
 [Barlow Condensed is a free, accessible-for-all, open-source Google font](https://fonts.google.com/specimen/Barlow+Condensed?preview.text_type=custom). Despite this we must ONLY use this specified weight from the extensive family.
 
@@ -166,24 +135,20 @@ Uppercase Barlow Bold Condensed must not be used for large bodies of text online
 
 For sizes and line-heights, see [our Digital UI Kit](https://www.figma.com/file/vH0UlrkKDtDrgdJhDkwSS6/Shelter-UI-kit).. If you have any questions, [email the UX team](mailto:ux@shelter.org.uk).
 
-  
 **Barlow Condensed Bold**
 
 ![](attachments/850395821/851739279.jpg?width=680)
 
-* * *
+---
 
-Typeface: Shelter Activist
---------------------------
+## Typeface: Shelter Activist
 
 Shelter Activist is a bespoke typeface and a key asset in our brand.
 
 Created by hand to feel urgent, confrontational, disruptive or positive; it represents human intervention and should only be used for these reasons:
 
 1.  To make [interventions with typography and imagery](https://design.shelter.org.uk/digital-framework/Typography.850395821.html#Typography-Typographicinterventions:withcharacters)
-    
 2.  To emphasise emotion or significant points in language, or [for use in numbers](https://design.shelter.org.uk/digital-framework/Typography.850395821.html#Typography-ShelterActivist:Statementsandnumbers)
-    
 
 There is an additional set of characters to help create a hand-drawn aesthetic - see below.
 
@@ -210,18 +175,14 @@ Set the tracking to between 0 and -10. Choose the value which best suits your de
 
 To enhance the hand-drawn feel, we can:
 
-*   move letterforms off the baseline
-    
-*   rotate the letterforms
-    
-*   make the kerning less ‘perfect’
-    
+- move letterforms off the baseline
+- rotate the letterforms
+- make the kerning less ‘perfect’
 
 ### Digital (website) typeface
 
 When choosing fonts, remember that our website has different requirements. If you'd like to use the Shelter Activist font online, please ask [our UX team](mailto:ux@shelter.org.uk).
 
-  
 **Shelter Activist**
 
 ![](attachments/850395821/850395992.jpg)
@@ -236,11 +197,11 @@ The extra characters have different levels of ‘show-through’ in the brush st
 
 You can find additional characters in the Glyphs panel on Adobe CC software. Or you can select the letterform with the cursor – you’ll see a quick swap option appear at the bottom right of the screen.
 
-**Core alphabet**  
+**Core alphabet**
 
 ![](attachments/850395821/852656170.jpg?width=442)
 
-**Alternative characters**  
+**Alternative characters**
 
 ![](attachments/850395821/852688911.jpg?width=680)
 
@@ -248,10 +209,9 @@ You can find additional characters in the Glyphs panel on Adobe CC software. Or 
 
 ![](attachments/850395821/850363158.jpg?width=442)
 
-* * *
+---
 
-Setting type
-------------
+## Setting type
 
 ### Grids
 
@@ -285,7 +245,8 @@ Think of your audience and select a font that feels right for them.
 
 Use Barlow Semibold or Condensed Bold. Think about making these smaller than the headline text.
 
-###   
+###
+
 Setting type examples
 
 Font key:
@@ -300,10 +261,9 @@ Font key:
 
 ![](attachments/850395821/852623427.jpg?width=680)
 
-* * *
+---
 
-Typographic interventions: with characters
-------------------------------------------
+## Typographic interventions: with characters
 
 Using Shelter Activist to make typographic interventions is an important part of our visual identity.
 
@@ -311,46 +271,36 @@ It allows you to turn negatives into positives and add meaning to words, or emph
 
 Be creative, but stick to these rules:
 
-*   keep it relevant to our work
-    
-*   don’t be basic or generic
-    
-*   only use one modification per word
-    
+- keep it relevant to our work
+- don’t be basic or generic
+- only use one modification per word
 
 See below for our dos and don’ts.
 
 Think of your intervention as a human hand, urgently modifying or correcting a problem. It’s important you capture this. You can do it by:
 
 1.  choosing the best letterforms from our additional characters for readability
-    
 2.  using characters that are up to 15% larger than words in Barlow Condensed Bold
-    
-3.  positioning so the original word underneath is still readable  
-    
+3.  positioning so the original word underneath is still readable
 
 **Adding meaning: using Shelter Activist to change a word and add new meaning:**
 
 ![](attachments/850395821/852623445.jpg)
 
-  
 **Adding meaning: showing how we feel about bad housing conditions:**
 
 ![](attachments/850395821/852656188.jpg)
 
-* * *
+---
 
-Typographic interventions: with punctuation
--------------------------------------------
+## Typographic interventions: with punctuation
 
 You can create impactful typographic interventions by using Shelter Activist’s punctuation.
 
 Follow the same principles as 'typographic interventions: with characters' above:
 
-*   turn negatives into positives
-    
-*   add meaning to words or emphasise them
-    
+- turn negatives into positives
+- add meaning to words or emphasise them
 
 ### Imagery interventions
 
@@ -368,17 +318,15 @@ You can be large and loud, or small and quiet. But make sure the technique is us
 
 ![](attachments/850395821/852688955.jpg)
 
-  
 **Adding meaning: using Shelter Activist punctuation to add meaning to imagery**
 
 ![](attachments/850395821/850396038.jpg)
 
 ![](attachments/850395821/850363218.jpg)
 
-* * *
+---
 
-Typographic interventions: with words
--------------------------------------
+## Typographic interventions: with words
 
 You can also make typographic interventions by inserting more than just characters or punctuation. You can use entire words to add new meaning or add emphasis/power to a specific statement.
 
@@ -386,7 +334,6 @@ We call these 'statement words', and they allow brush typography to dominate the
 
 **When using this technique, you can use a maximum of four words in Shelter Activist.**
 
-  
 **Typographic intervention:** examples of adding new meaning or emphasis/power to specific words with Shelter Activist
 
 ![](attachments/850395821/850363224.jpg)
@@ -397,10 +344,9 @@ We call these 'statement words', and they allow brush typography to dominate the
 
 ![](attachments/850395821/852688965.jpg?width=442)
 
-* * *
+---
 
-Shelter Activist: Statements and numbers
-----------------------------------------
+## Shelter Activist: Statements and numbers
 
 You don't always have to pair Shelter Activist with Barlow Condensed Bold or an image.
 
@@ -413,22 +359,21 @@ freedom – but avoid using Shelter Activist at small point sizes.
 
 **Shelter Activist examples:**
 
-Cause-led language  
+Cause-led language
 
 ![](attachments/850395821/852688975.jpg)
 
-Onomatopoeic words  
+Onomatopoeic words
 
 ![](attachments/850395821/850396052.jpg)
 
-Numerals and stats  
+Numerals and stats
 
 ![](attachments/850395821/852590668.jpg)
 
-* * *
+---
 
-Dos and dont’s
---------------
+## Dos and dont’s
 
 ![](attachments/850395821/852656210.jpg)
 
@@ -471,10 +416,9 @@ when using emotive language.
 **Avoid using Shelter Activist decoratively**  
 Shelter Activist should not be used to simply pull out a word. Consider your message and think conceptually.
 
-* * *
+---
 
-Words replace icons
--------------------
+## Words replace icons
 
 We don't use icons in our creative.
 
@@ -484,29 +428,23 @@ The only place where we use icons is on our website to help with user navigation
 
 ![](attachments/850395821/852623487.jpg)
 
-* * *
+---
 
-Typography in action
---------------------
+## Typography in action
 
 ![](attachments/850395821/852623493.jpg?width=680)![](attachments/850395821/850363234.jpg)
 
 ![](attachments/850395821/851739348.jpg)![](attachments/850395821/852688985.jpg)![](attachments/850395821/852623501.jpg)
 
-* * *
+---
 
-Questions about our typography?
--------------------------------
+## Questions about our typography?
 
 [Contact the Shelter marketing team](https://england.shelter.org.uk/contact_our_brand_team)
 
-Read our [house style](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/243236947) or our other [content guides](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/442138636)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Read our [house style](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/243236947) or our other [content guides](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/442138636)
 
-  
-
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [typography - 0.JPG](attachments/850395821/850363118.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [typography - 1.JPG](attachments/850395821/852623387.jpg) (image/jpeg)  

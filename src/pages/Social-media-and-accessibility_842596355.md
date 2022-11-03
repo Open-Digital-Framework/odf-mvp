@@ -10,8 +10,7 @@ In the UK, 1 in 5 people (13.7 million) have a disability. Their right to access
 
 So it’s essential that our social media content is fully accessibility to people with disabilities. This guides gives you six top production tips. For more, read Shelter’s main [accessibility guidance and best practices](666501133.html).
 
-General tips for producing accessible social media content:
------------------------------------------------------------
+## General tips for producing accessible social media content:
 
 **1\. Avoid too much text** - Having a lot of text on a graphic can make it difficult to read, and needs to be replicated in ALT text when it’s posted. Keep things short and concise on social media graphics
 
@@ -30,13 +29,11 @@ Related: Shelter’s [video guides](Video-production-guides_769622161.html)
 
 **6\. DON’T OVERUSE CAPS** - They can be hard to read for some, and are harder to read in general
 
-Further reading
----------------
+## Further reading
 
 Hootsuite has published a guide to [inclusive design for social media](https://blog.hootsuite.com/inclusive-design-social-media/), which provides useful details on the key points.
 
-Other accessibility guides
---------------------------
+## Other accessibility guides
 
 ![](images/icons/grey_arrow_down.png)Shelter’s accessibility guidance and best practices
 
@@ -50,24 +47,21 @@ There are straightforward best practices for making sure your users with disabil
 
 This [comprehensive list](Accessibility-success-criteria_824410212.html) covers the criteria for meeting Web Content Accessibility Guidelines (WCAG) standards.
 
-* * *
+---
 
-Related
--------
+## Related
 
 Read our other [content guides](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/442138636)
 
 Read our [brand guidelines](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/760676531)
 
-* * *
+---
 
-Contact us
-----------
+## Contact us
 
-Have a question or comment about accessibility or other digital topic? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.  
+Have a question or comment about accessibility or other digital topic? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [Social media accessibility - video captions.jpg](attachments/842596355/843546636.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [Social media accessibility - text length.jpg](attachments/842596355/843579403.jpg) (image/jpeg)

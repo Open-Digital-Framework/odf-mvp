@@ -12,8 +12,7 @@ There are ‘thresholds’ at the end of each phase - assessments of whether to 
 
 ![Graphic showing the 3 phases of Shelter's digital cycle](attachments/839647233/867827732.jpg?width=680)
 
-The 3 phases
-------------
+## The 3 phases
 
 [**Creating a live service**](https://shelteruk.atlassian.net/wiki/spaces/ETS/pages/839745537) - Planning, discovery, delivery, scaling and deployment
 
@@ -21,8 +20,7 @@ The 3 phases
 
 [**Future vision and business planning**](https://shelteruk.atlassian.net/wiki/spaces/ETS/pages/839712769) - Capturing ideas, validating opportunities, planning and prioritising
 
-Assessment thresholds
----------------------
+## Assessment thresholds
 
 Between each phase, decisions need to be made. At the end of each phase, we make sure we’ve reached a threshold of evidence to move forward to the next phase.
 
@@ -30,11 +28,9 @@ Does the newly built service meet all acceptance criteria and quality checks? Do
 
 We are trying out different ways to assess products and services at the end of each phase. We want to be inclusive of teams when we conduct threshold assessment, and be flexible in the criteria we use.
 
-[Next: Creating a live service](https://shelteruk.atlassian.net/wiki/spaces/ETS/pages/839745537)
-------------------------------------------------------------------------------------------------
+## [Next: Creating a live service](https://shelteruk.atlassian.net/wiki/spaces/ETS/pages/839745537)
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [lifecyle graphic.afphoto](attachments/839647233/864059401.afphoto) (application/afphoto)  
 ![](images/icons/bullet_blue.gif) [lifecyle graphic.afphoto](attachments/839647233/864059395.afphoto) (application/afphoto)  

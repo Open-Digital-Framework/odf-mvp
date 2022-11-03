@@ -6,22 +6,19 @@ layout: ../layouts/MainLayout.astro
 
 ### Ampersands
 
-Should only appear as part of a recognisable name, e.g. Marks & Spencer), or where you have limited space and need to make maximum impact. Like in a social media post, heading, or table.   
+Should only appear as part of a recognisable name, e.g. Marks & Spencer), or where you have limited space and need to make maximum impact. Like in a social media post, heading, or table.
 
 ### Brackets
 
-Use (round) brackets for everything except legal references and footnotes, where we use \[square\].  
+Use (round) brackets for everything except legal references and footnotes, where we use \[square\].
 
 ### Dashes
 
 We use en dashes (–) when formatting dates, times, and number ranges. See [Formatting and styles](https://shelteruk.atlassian.net/wiki/spaces/CDE/pages/476348428/Formatting+and+styles) for details. Please note, these are slightly longer than hyphens, and there is no key for them on typical keyboards. You can produce an en dash by:
 
-*   copying and pasting from here: –
-    
-*   Googling ‘en dash’, then copying and pasting from there
-    
-*   in Word, doing the following:
-    
+- copying and pasting from here: –
+- Googling ‘en dash’, then copying and pasting from there
+- in Word, doing the following:
 
 type word>space>hyphen>space>word>space and your hyphen will convert to an en dash.
 
@@ -47,20 +44,17 @@ e.g. We’re meeting with the housing ministers, Matt Hancock, and Boris Johnson
 
 ### Quotation marks
 
-Use single quote marks as standard, then double for quotes inside a quote. 
+Use single quote marks as standard, then double for quotes inside a quote.
 
-*   **quoting complete sentences:** include full stop before closing 
-    
+- **quoting complete sentences:** include full stop before closing
 
-e.g. She said: ‘We shouldn’t have to live like this.’ 
+e.g. She said: ‘We shouldn’t have to live like this.’
 
-*   **quoting part of a sentence:** close it before the full stop 
-    
+- **quoting part of a sentence:** close it before the full stop
 
-e.g. She said that ‘life is very hard’.  
+e.g. She said that ‘life is very hard’.
 
-*   **for long passages of speech:** open quotes for every paragraph, and close quotes only at the end of the final paragraph
-    
+- **for long passages of speech:** open quotes for every paragraph, and close quotes only at the end of the final paragraph
 
 ### Slashes
 
@@ -70,11 +64,10 @@ No spaces, e.g. 2008/09.
 
 Use single spacing between sentences, so only one space after your full stop.
 
-* * *
+---
 
 ### Speak the same language using [our digital glossary](Shelter%27s-digital-glossary_712245258.html)
 
-Contact us
-----------
+## Contact us
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.

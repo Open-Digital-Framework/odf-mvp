@@ -8,8 +8,7 @@ Our digital planning takes different forms depending on where in [the digital li
 
 ![A man, his wife, and their 3 children stand in the back doorway or their home.](attachments/936935482/936935505.jpg?width=680)
 
-Section pages
--------------
+## Section pages
 
 ![](images/icons/grey_arrow_down.png)Future vision and business planning
 
@@ -35,14 +34,12 @@ A standard part of Agile ways of working, release planning allows us to deliver 
 
 [Read more](Release-planning_936935587.html)
 
-* * *
+---
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [Simon-family.jpg](attachments/936935482/936935505.jpg) (image/jpeg)

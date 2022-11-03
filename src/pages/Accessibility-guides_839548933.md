@@ -5,9 +5,9 @@ layout: ../layouts/MainLayout.astro
 ---
 
 > **“**[**GOV.UK**](http://GOV.UK) **summarised the importance of accessibility best: ‘The people who need our services the most are often the people who find them hardest to use.’** [**Government data around housing need**](https://www.gov.uk/government/statistics/disability-facts-and-figures/disability-facts-and-figures) **states that 'Although the gap has closed over recent years, 1 in 3 households with a disabled person still live in non-decent accommodation'.**
-> 
-> **“In the UK, 1 in 5 people have a disability, which is over 14 million people. Digital accessibility is critical to providing good and inclusive services. In addition, failing to make our services accessible to** _**everyone**_ **is a breach of the Equalities Act 2010.”**
-> 
+>
+> **“In the UK, 1 in 5 people have a disability, which is over 14 million people. Digital accessibility is critical to providing good and inclusive services. In addition, failing to make our services accessible to** **_everyone_** **is a breach of the Equalities Act 2010.”**
+>
 > Andrea Dahlen, Senior User Experience Designer
 
 More than ever, organisations know their websites and social media content need to be usable for people with disabilities, who make up over 20% of the UK population.
@@ -34,18 +34,16 @@ Shelter’s social channels are fundamental to our ability to reach people facin
 This comprehensive list covers the criteria for meeting Web Content Accessibility Guidelines (WCAG) standards.  
 [Read more](Accessibility-success-criteria_824410212.html)
 
-* * *
+---
 
-Related
--------
+## Related
 
 Read our other [content guides](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/442138636)
 
 Read our [brand guidelines](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/760676531)
 
-* * *
+---
 
-Contact us
-----------
+## Contact us
 
 Have a question or comment about accessibility or other digital topic? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.

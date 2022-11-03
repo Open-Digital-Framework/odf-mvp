@@ -6,16 +6,14 @@ layout: ../layouts/MainLayout.astro
 
 ![](attachments/767754297/767852624.jpg?width=680)
 
-Intro: We speak as one
-----------------------
+## Intro: We speak as one
 
 Whether we’re letting a family know their housing rights, inspiring someone to support us or speaking to the  
 government, we must always speak in one clear voice.
 
 If you can’t find what you’re looking for or need some advice, speak to one of our writers – they’ll give you a hand.
 
-Boilerplate:
-------------
+## Boilerplate:
 
 **We exist to defend the right to a safe home**  
 **and fight the devastating impact the housing**  
@@ -27,8 +25,7 @@ We believe that home is everything.
 Use this core message on all leaflets and publications – preferably on the back cover.  
 If space is restricted, you can delete the last two sentences.
 
-Be provocative
---------------
+## Be provocative
 
 **Be brave with your words and tell the unvarnished truth.**
 
@@ -53,8 +50,7 @@ Sign our petition to fight unsafe housing conditions today.
 You don’t have to be on the street to live in filthy, disgusting conditions.  
 Sign our petition to fight criminal housing conditions today.
 
-Be proactive
-------------
+## Be proactive
 
 **Write with energy, authority and power. Write to get stuff done.**
 
@@ -79,8 +75,7 @@ Get involved >
 Please join us on our annual fundraising bike ride to raise vital funds for Shelter.  
 Find out more >
 
-Be protective
--------------
+## Be protective
 
 **Use your words to defend people’s right to a safe home and make them feel strong.**
 
@@ -111,8 +106,7 @@ The families stuck in bad housing.
 We fight for those who can’t.  
 Join us to lift people out of crisis.
 
-Writing about people
---------------------
+## Writing about people
 
 When you write about the people we’re fighting for and alongside, always choose words that recognise their resilience, dignity and strength. And always write with clarity and compassion.
 
@@ -130,8 +124,7 @@ Learn how we [write about domestic abuse](Writing-about-domestic-abuse_183762970
 **A stat is just a number…**  
 …and that’s the problem. Stats can be dehumanising. When you write for Shelter, it’s important to give meaning and emotion to any statistics you use. That’s because, on their own, statistics are often just numbers that our human brains aren’t wired to process in a meaningful, emotional way. At worst, stats can be dehumanising.
 
-Writing about housing and the emergency
----------------------------------------
+## Writing about housing and the emergency
 
 There are some key things you need to know when writing about the housing emergency.  
 For example, the difference between housing rights and human rights. Make sure you  
@@ -157,24 +150,20 @@ This is the housing emergency and this is what we’re up against.
 
 Related: How we [write about domestic abuse](Writing-about-domestic-abuse_183762970.html).
 
-* * *
+---
 
-Learn our house style
----------------------
+## Learn our house style
 
 Shelter’s style guide explains how to write certain words, phrases and terms that we use a lot at Shelter. There’s also some more general guidance for things like how to write numbers and dates, rules on capital letters and when to use italics.
 
 [**Visit the style guide**](Shelter%27s-house-style_243236947.html)
 
-Questions about using our tone of voice or other parts of our brand?
---------------------------------------------------------------------
+## Questions about using our tone of voice or other parts of our brand?
 
 [Contact the Shelter marketing team](https://england.shelter.org.uk/contact_our_brand_team)
 
-Read our other [content guides](Guides_442138636.html)
-------------------------------------------------------
+## Read our other [content guides](Guides_442138636.html)
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [ToV1.jpg](attachments/767754297/767852624.jpg) (image/jpeg)

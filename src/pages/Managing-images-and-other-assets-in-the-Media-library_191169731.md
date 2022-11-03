@@ -8,36 +8,24 @@ Contentful’s Media library is where we store images and downloadables for use 
 
 **Asset types and file formats it accepts:**
 
-*   **Presentation** – PPTX
-    
-*   **Images** - JPG, PNG, GIF, SVG, TIFF (always use JPG for photographic images and GIF for non-photographic uses like logos. Please convert all PNG files to JPG.)
-    
-*   **Audio** – MP3, WAV, AAC
-    
-*   **Rich text** – Word .doc, RTF
-    
-*   **PDF**
-    
-*   **Video** – MP4 and OGV (the format we use for background videos such as on the [Vertical Rush page](https://england.shelter.org.uk/support_us/events/charity_challenge/vertical_rush). But for all other video please use a streaming service (YouTube, Vimeo) and Contentful’s [video embed component](https://shelteruk.atlassian.net/wiki/spaces/CDP/pages/191170966/Video+embed+component) .
-    
-*   **Spreadsheet** - .xls, .csv
-    
+- **Presentation** – PPTX
+- **Images** - JPG, PNG, GIF, SVG, TIFF (always use JPG for photographic images and GIF for non-photographic uses like logos. Please convert all PNG files to JPG.)
+- **Audio** – MP3, WAV, AAC
+- **Rich text** – Word .doc, RTF
+- **PDF**
+- **Video** – MP4 and OGV (the format we use for background videos such as on the [Vertical Rush page](https://england.shelter.org.uk/support_us/events/charity_challenge/vertical_rush). But for all other video please use a streaming service (YouTube, Vimeo) and Contentful’s [video embed component](https://shelteruk.atlassian.net/wiki/spaces/CDP/pages/191170966/Video+embed+component) .
+- **Spreadsheet** - .xls, .csv
 
-**Finding assets**
-------------------
+## **Finding assets**
 
 ![](attachments/191169731/191267235.png?width=680)
 
- Contentful’s media library has the same search behavior as the main Content section. You can:
+Contentful’s media library has the same search behavior as the main Content section. You can:
 
-*   **search by file type** – select a type in the left sidebar to add the **Type** dropdown to the search field
-    
-*   **search by keyword** – Contentful searches files names and descriptions
-    
-*   **filter your search** by a range of criteria – file size, date uploaded, who uploaded it and more
-    
-*   **save a search view** under ‘My views’ or ‘Shared views’ (left sidebar) to quickly view when you need it (we really recommend this feature)
-    
+- **search by file type** – select a type in the left sidebar to add the **Type** dropdown to the search field
+- **search by keyword** – Contentful searches files names and descriptions
+- **filter your search** by a range of criteria – file size, date uploaded, who uploaded it and more
+- **save a search view** under ‘My views’ or ‘Shared views’ (left sidebar) to quickly view when you need it (we really recommend this feature)
 
 ![](attachments/191169731/191169815.jpg)
 
@@ -45,29 +33,26 @@ Contentful’s Media library is where we store images and downloadables for use 
 
 ![](attachments/191169731/185893631.jpg?width=544)
 
-**Uploading assets**
---------------------
+## **Uploading assets**
 
 **Duplication circumvention** - Before you upload an asset, see if it’s already in the CMS. Do a quick search. It’s not there? Great, now you’re free to upload like the wind.
 
 1.  Use the **Add asset** button, top right-hand corner, and select single asset or multiple.
-    
 
-*   For a **Single asset**  
-    A. Drag & drop or use the file selector\* to add your file  
-    B. The file’s name will auto-generate the **Title**, which you can edit (see guidelines below)  
-    C. Add the asset’s description (guidelines below)  
-    D. **Publish** the asset  
-    
-*   For **Multiple assets**  
-    A. Drag & drop or use the file selector to add your files  
-    (NOTE: In the **Selected files** views, if you’ve chosen images you’ll see an Edit option but it’s very limited and a bit rubbish. You’ll have better image editing options once the file is uploaded.)  
-    B. **Upload** the files  
-    C. You’ll see your assets in the Media dashboard, in DRAFT status.  
-      
-    \* NOTE: In the **file selector** window you’ll see a range of source options - by URL, web search, social platforms, ‘take photo’ and more. Because external content comes with inherent risks - copyright and ownership, privacy issues, brand risk and more - **please do not use any of these sources unless approved by the Brand team.** The one exception to this rule is the **Link (URL)** option if goes to a Shelter image, [like this one](https://images.ctfassets.net/6sxvmndnpn0s/6X2WSOpES3MIBnhXHPJtDF/58f45342633d12308fff3458c2731933/Denise-and-baby-at-window.jpg) for example.  
-    
-    ![](attachments/191169731/191201461.jpg?width=408)
+- For a **Single asset**  
+  A. Drag & drop or use the file selector\* to add your file  
+  B. The file’s name will auto-generate the **Title**, which you can edit (see guidelines below)  
+  C. Add the asset’s description (guidelines below)  
+  D. **Publish** the asset
+- For **Multiple assets**  
+  A. Drag & drop or use the file selector to add your files  
+  (NOTE: In the **Selected files** views, if you’ve chosen images you’ll see an Edit option but it’s very limited and a bit rubbish. You’ll have better image editing options once the file is uploaded.)  
+  B. **Upload** the files  
+  C. You’ll see your assets in the Media dashboard, in DRAFT status.
+
+  \* NOTE: In the **file selector** window you’ll see a range of source options - by URL, web search, social platforms, ‘take photo’ and more. Because external content comes with inherent risks - copyright and ownership, privacy issues, brand risk and more - **please do not use any of these sources unless approved by the Brand team.** The one exception to this rule is the **Link (URL)** option if goes to a Shelter image, [like this one](https://images.ctfassets.net/6sxvmndnpn0s/6X2WSOpES3MIBnhXHPJtDF/58f45342633d12308fff3458c2731933/Denise-and-baby-at-window.jpg) for example.
+
+  ![](attachments/191169731/191201461.jpg?width=408)
 
 ### **Decision: Be lazy or be accessible?**
 
@@ -75,12 +60,9 @@ Contentful’s Media library is where we store images and downloadables for use 
 
 At this point you can either tick the box next to each asset and click **Publish** to do a quick bulk publish of your assets. But they’ll be _missing descriptions_. For images, descriptions are crucial:
 
-*   They are the **alt text** read aloud to users with visual or cognitive disabilities. Good alt text is one of the first principles of web accessibility.
-    
-*   If a browser can’t load an image or a user chooses not to display images, the alt text is displayed.
-    
-*   Alt text gives your image semantic meaning for search engines.
-    
+- They are the **alt text** read aloud to users with visual or cognitive disabilities. Good alt text is one of the first principles of web accessibility.
+- If a browser can’t load an image or a user chooses not to display images, the alt text is displayed.
+- Alt text gives your image semantic meaning for search engines.
 
 Even for non-image assets, descriptions are vital to helping people and machines understand what your asset is about.
 
@@ -90,13 +72,10 @@ Of course, you can go ahead with the bulk publish, then go into each asset later
 
 More info on alt text:
 
-*   [https://webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
-    
-*   [https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives](https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives)
-    
+- [https://webaim.org/techniques/alttext/](https://webaim.org/techniques/alttext/)
+- [https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives](https://www.w3.org/WAI/fundamentals/accessibility-principles/#alternatives)
 
-**Guidelines for naming assets**
---------------------------------
+## **Guidelines for naming assets**
 
 It’s a common human trait: We often give our digital files vague, meaningless and nonsensical names, making it a challenge for us to find them months later and almost impossible for colleagues to get value from them.
 
@@ -108,10 +87,8 @@ That said, it all starts with a good asset name. It should clearly and accuratel
 
 When thinking about where images can be used on a website, images generally fall into two categories: generic or specific. Knowing which of these an image falls into will help you name it:
 
-*   **Generic**: If the photo shows unnamed people, locations or activities and could be used with several messages (for example, someone on a phone wearing a headset could be used to promote different helplines, or a couple reading a paper form could be used with content about renting and applying for benefits).
-    
-*   **Specific**: If the photo shows a specific person, event or service (for example, a Shelter trustee or a banner on the finish line of the Asics 10K, marked as such).
-    
+- **Generic**: If the photo shows unnamed people, locations or activities and could be used with several messages (for example, someone on a phone wearing a headset could be used to promote different helplines, or a couple reading a paper form could be used with content about renting and applying for benefits).
+- **Specific**: If the photo shows a specific person, event or service (for example, a Shelter trustee or a banner on the finish line of the Asics 10K, marked as such).
 
 ### **Image description**
 
@@ -138,12 +115,9 @@ It’s best practice to upload, name and describe your images _before_ you build
 ![](attachments/191169731/185926361.jpg?width=340)
 
 1.  **Search** the Media library first. Maybe the image you have in mind is already in the system. Or maybe there’s an even better image for the purpose. Resist the temptation to **Create new asset** and help keep the system from being overcluttered with duplication.
-    
 2.  If you can’t find what you need, go ahead and use **Create new asset** to upload an image - taking a minute to give it a clear name and good description.
-    
 
-**How Contentful handles images**
----------------------------------
+## **How Contentful handles images**
 
 Oh the joy! In the painful past of content management systems, an image had to be optimised - resized and compressed - for every place you intended to use it.
 
@@ -155,29 +129,19 @@ In this example, the intrinsic image of Rose is 1.3mb. But for use in the two co
 
 So the guidance it to upload an image large enough to be used in the bigger sizes - hero banners, full width images, etc.
 
-**Summary points on images in Media**
--------------------------------------
+## **Summary points on images in Media**
 
-*   When you upload an image, give it a name that’s clear, and give it a description that provides useful information about what’s in the image, for users with disabilities, for SEO and for users whose browsers don’t display images.
-    
-*   Always use JPG format for photographic images and GIF for non-photographic uses like logos.
-    
-*   Before you upload an image, search to see if it already exists.
-    
-*   Do not use the upload options for external channel or storage sources (Facebook, Instagram, Google Drive, Dropbox etc) unless you’ve been approved to do so by the Brand team.
-    
-*   Avoid the temptation to upload images in the flow of content creation.
-    
-*   If you do upload an image as you’re building content, take the time to give it a good name and description.
-    
-*   You don’t have to optimise a large image for a small page pattern. Contentful will handle it for you. So upload an image large enough to be used in the bigger sizes such as hero banners.
-    
+- When you upload an image, give it a name that’s clear, and give it a description that provides useful information about what’s in the image, for users with disabilities, for SEO and for users whose browsers don’t display images.
+- Always use JPG format for photographic images and GIF for non-photographic uses like logos.
+- Before you upload an image, search to see if it already exists.
+- Do not use the upload options for external channel or storage sources (Facebook, Instagram, Google Drive, Dropbox etc) unless you’ve been approved to do so by the Brand team.
+- Avoid the temptation to upload images in the flow of content creation.
+- If you do upload an image as you’re building content, take the time to give it a good name and description.
+- You don’t have to optimise a large image for a small page pattern. Contentful will handle it for you. So upload an image large enough to be used in the bigger sizes such as hero banners.
 
-  
 **Any questions?** [Email Lindsay Foley](mailto:lindsay_foley@shelter.org.uk) in the Central Digital team.
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [media types.jpg](attachments/191169731/191169815.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [image keyword search.jpg](attachments/191169731/191169821.jpg) (image/jpeg)  

@@ -10,8 +10,7 @@ Quality needs to be sacrosanct in Shelter’s digital work. We have quality stan
 
 This commitment to watertight quality is what will drive our publishing workflows - the start-to-finish processes for getting content on our websites. And in our [devolved content model](The-devolved-model-of-delivering-digital_416317505.html), in which some teams have responsibility for creating, publishing, and managing their content while others rely on central teams in England and Scotland, each workflow will be designed to fit a team’s needs.
 
-Humans and systems
-------------------
+## Humans and systems
 
 A web publishing workflow has two basic sides to it:
 
@@ -21,36 +20,23 @@ A web publishing workflow has two basic sides to it:
 
 ### In general, humans require a workflow that:
 
-*   is understood by everyone. They should know what’s required of them and when
-    
-*   makes it easy for each person to do their step
-    
-*   provides the right amount of input to meet the need. A new page with several blocks of content should be reviewed by two sets of eyes. But fixing three typos doesn’t require a review
-    
-*   removes risk. Gov.uk uses as standard the [**two pairs of eyes** (2i) rule](https://insidegovuk.blog.gov.uk/2014/05/29/what-to-check-before-you-publish-a-2i-checklist/): at least two people must review new content
-    
-*   sustains momentum. When one person’s task is done, the flow moves forward to the next person
-    
+- is understood by everyone. They should know what’s required of them and when
+- makes it easy for each person to do their step
+- provides the right amount of input to meet the need. A new page with several blocks of content should be reviewed by two sets of eyes. But fixing three typos doesn’t require a review
+- removes risk. Gov.uk uses as standard the [**two pairs of eyes** (2i) rule](https://insidegovuk.blog.gov.uk/2014/05/29/what-to-check-before-you-publish-a-2i-checklist/): at least two people must review new content
+- sustains momentum. When one person’s task is done, the flow moves forward to the next person
 
 ### So they need a workflow system that:
 
-*   is collaborative – allowing everyone involved to easily play their part, and for content teams to be easily supported by central experts
-    
-*   assigns clear roles and permissions to people
-    
-*   is efficient – in moving webpages forward through the process, notifying people when something needs attention
-    
-*   is user-friendly – for editors building content and pages, and for reviewers and approvers
-    
-*   facilitates quality – by making reviews, revisions and approvals straightforward and ensuring proper checks are made
-    
-*   makes progress clearly visible
-    
-*   is understood by everyone involved
-    
+- is collaborative – allowing everyone involved to easily play their part, and for content teams to be easily supported by central experts
+- assigns clear roles and permissions to people
+- is efficient – in moving webpages forward through the process, notifying people when something needs attention
+- is user-friendly – for editors building content and pages, and for reviewers and approvers
+- facilitates quality – by making reviews, revisions and approvals straightforward and ensuring proper checks are made
+- makes progress clearly visible
+- is understood by everyone involved
 
-Our publishing platform
------------------------
+## Our publishing platform
 
 We’ve adopted a new content management system (CMS) called Contentful, to manage our website and all its content, and drive publishing workflows.
 
@@ -66,23 +52,19 @@ You can find more information on Contentful in this blog, as well as a [thorough
 
 **Need training in Contentful?** [Email Lindsay Foley](mailto:lindsay_foley@shelter.org.uk)
 
-Read our other [content guides](Guides_442138636.html)
-------------------------------------------------------
+## Read our other [content guides](Guides_442138636.html)
 
-* * *
+---
 
-Learn the lingo
----------------
+## Learn the lingo
 
 For a range of definitions of digital terms and roles, [visit our digital glossary](Shelter%27s-digital-glossary_712245258.html)
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [contentful-logo.png](attachments/474316809/474316834.png) (image/png)  
 ![](images/icons/bullet_blue.gif) [contentful-logo-cropped.png](attachments/474316809/493584668.png) (image/png)  

@@ -6,7 +6,7 @@ layout: ../layouts/MainLayout.astro
 
 ![Video still from Fight for Home, the Shelter brand campaign film, showing music notation wrapping around the subtitles](attachments/602570761/792625246.jpg?width=680)
 
-Shelter delivers equal access video for deaf and hard of hearing people through captions and subtitles. We use a format called Subtitles for the deaf and hard of hearing, known as **SDH subtitles**, which includes a visual soundtrack of relevant non-dialogue audio sound effects and speaker identification. 
+Shelter delivers equal access video for deaf and hard of hearing people through captions and subtitles. We use a format called Subtitles for the deaf and hard of hearing, known as **SDH subtitles**, which includes a visual soundtrack of relevant non-dialogue audio sound effects and speaker identification.
 
 SDH subtitles mean that Shelter's video content is accessible to more than 11 million people in the UK who are deaf or hard of hearing.
 
@@ -14,38 +14,24 @@ Captions also increase viewership as they keep the audience engaged regardless o
 
 All video produced for Shelter’s channels should be delivered using the following guidelines.
 
-Writing captions
-----------------
+## Writing captions
 
-*   The text should always be verbatim (written exactly as it's said), styled as the person speaks
-    
-*   Where possible, each caption should be self-contained within the clip it relates to
-    
-*   Audio descriptions should be fact-based
-    
-*   Once you've finished captioning your video, watch it back on mute to check that your captions convey the sound information equal to when you’re hearing it
-    
+- The text should always be verbatim (written exactly as it's said), styled as the person speaks
+- Where possible, each caption should be self-contained within the clip it relates to
+- Audio descriptions should be fact-based
+- Once you've finished captioning your video, watch it back on mute to check that your captions convey the sound information equal to when you’re hearing it
 
 ### Checklist
 
-*   All captions should be center justified and placed at the bottom of the screen
-    
-*   Text should be limited to a maximum of 38 characters per line. You can check this using an [online character counting tool](https://charactercounttool.com/)
-    
-*   Maximum two lines of text per caption. If possible the bottom line should be longer so it doesn’t interfere with the image
-    
-*   Try to make each caption self-contained within the clip it relates to
-    
-*   If you have to let a caption hang over a shot change, do not remove it too soon after the cut (which can be jarring for the viewer)
-    
-*   Numbers between one and nine should be written in words. Information normally as figures such as telephone numbers, house numbers should be retained as figures. (Learn more about [Shelter’s house style](Shelter%27s-house-style_243236947.html))
-    
-*   A specific time is written in standard form - 9:45am, 4:20pm etc. The passing of time is written in words - seven minutes, twelve days etc
-    
-*   Where the same word is repeated several times in a short space, don't caption all the repeats; For example, a rapid "No, no, no, no" is subtitled as "No, no"
-    
-*   Keep the use of exclamation marks to a minimum. Too many devalue the dialogue's impact
-    
+- All captions should be center justified and placed at the bottom of the screen
+- Text should be limited to a maximum of 38 characters per line. You can check this using an [online character counting tool](https://charactercounttool.com/)
+- Maximum two lines of text per caption. If possible the bottom line should be longer so it doesn’t interfere with the image
+- Try to make each caption self-contained within the clip it relates to
+- If you have to let a caption hang over a shot change, do not remove it too soon after the cut (which can be jarring for the viewer)
+- Numbers between one and nine should be written in words. Information normally as figures such as telephone numbers, house numbers should be retained as figures. (Learn more about [Shelter’s house style](Shelter%27s-house-style_243236947.html))
+- A specific time is written in standard form - 9:45am, 4:20pm etc. The passing of time is written in words - seven minutes, twelve days etc
+- Where the same word is repeated several times in a short space, don't caption all the repeats; For example, a rapid "No, no, no, no" is subtitled as "No, no"
+- Keep the use of exclamation marks to a minimum. Too many devalue the dialogue's impact
 
 ### Multiple speakers
 
@@ -62,16 +48,13 @@ If you have multiple speakers off screen, use the colour yellow = #FFBC3D to dis
 
 All music that is part of the action, or significant to the plot, should be indicated in some way. If it's part of the action, for example somebody playing an instrument or track, then write in upper case.
 
-*   **For music without lyrics**: If the music doesn’t have a name, describe the music in capital letters with a musical note (♪) or octothorpe (#), inside square brackets:  
-    \[ ♪ BLUES HARMONICA ♪ \]  
-      
-    If the music’s name and artist are known, include both, using the format \[ ♪TITLE OF MUSIC - ARTIST’S OR PERFORMER’S NAME♪\]:  
-    \[ ♪ FIFTH SYMPHONY - BEETHOVEN ♪\]  
-    
-*   **For music with lyrics:** Wrap relevant lyrics in musical notes (♪) to identify when the singing starts and ends, eg:  
-    ♪ Somewhere over the rainbow  
-    Way up high ♪
-    
+- **For music without lyrics**: If the music doesn’t have a name, describe the music in capital letters with a musical note (♪) or octothorpe (#), inside square brackets:  
+  \[ ♪ BLUES HARMONICA ♪ \]
+  If the music’s name and artist are known, include both, using the format \[ ♪TITLE OF MUSIC - ARTIST’S OR PERFORMER’S NAME♪\]:  
+  \[ ♪ FIFTH SYMPHONY - BEETHOVEN ♪\]
+- **For music with lyrics:** Wrap relevant lyrics in musical notes (♪) to identify when the singing starts and ends, eg:  
+  ♪ Somewhere over the rainbow  
+  Way up high ♪
 
 ### Non-dialogue audio
 
@@ -81,17 +64,13 @@ Sound-effect labels should be as brief as possible and should have the following
 subject + active, finite verb:  
 \[A DOOR SLAMS\]
 
-Style specifications
---------------------
+## Style specifications
 
 These specifications for Adobe Premier Pro cover the three ratios most commonly used: 16:9, 1:1 and 9:16. These should easily translate to other applications such as Final Cut Pro.
 
-*   For 1920 x 1080p, we use Barlow, Regular, size 60, colour white, stroke 3px
-    
-*   To avoid interference with on-screen activity, no background or ‘ghost box’ is required. [See settings below if additional legibility is needed](https://shelteruk.atlassian.net/wiki/spaces/ETS/pages/602570761/Video+captioning#Subtitles-for-bright-video)
-    
-*   All captions must stay within text safe areas
-    
+- For 1920 x 1080p, we use Barlow, Regular, size 60, colour white, stroke 3px
+- To avoid interference with on-screen activity, no background or ‘ghost box’ is required. [See settings below if additional legibility is needed](https://shelteruk.atlassian.net/wiki/spaces/ETS/pages/602570761/Video+captioning#Subtitles-for-bright-video)
+- All captions must stay within text safe areas
 
 ### Ratio: 16:9 
 
@@ -133,15 +112,13 @@ Background size: 10.0
 
 ![](attachments/602570761/730136607.png?width=960)
 
-Automatically generated captions
---------------------------------
+## Automatically generated captions
 
 Platforms such as YouTube and Instagram provide an automatic caption function for video content and live-stream video. But we discourage their use - these are generated by machine-learning algorithms, so the quality of the captions may vary and it's necessary to always review them for accuracy.
 
 Learn how to add subtitles using [YouTube's subtitles and caption guide](https://support.google.com/youtube/answer/2734796?hl=en-GB).
 
-Other resources
----------------
+## Other resources
 
 [BBC subtitle guidelines 2018](https://bbc.github.io/subtitle-guidelines/#Introduction)
 
@@ -149,8 +126,7 @@ Other resources
 
 [https://www.w3.org/WAI/media/av/captions/](https://www.w3.org/WAI/media/av/captions/)
 
-Other video guides
-------------------
+## Other video guides
 
 ![](images/icons/grey_arrow_down.png)Filming basics, a practical guide
 
@@ -165,7 +141,7 @@ Supers are titles, text, or graphics added to video. They can add value for vie
 ![](images/icons/grey_arrow_down.png)Case study videos
 
 This guide will help filmmakers and partners produce stories in Shelter’s style of observational and participatory documentary videos.  
-[Read more](630358245.html) 
+[Read more](630358245.html)
 
 ![](images/icons/grey_arrow_down.png)How to commission a video
 
@@ -177,24 +153,19 @@ If you’re commissioning a video using Shelter’s video team or external filmm
 A range of mandatory docs (such as a COVID statement), guides and tools for your production.  
 [Read more](Essential-production-documents_807633054.html)
 
-* * *
+---
 
-Related
--------
+## Related
 
 Read our other [content guides](Guides_442138636.html)
 
 Read our [brand guidelines](https://shelteruk.atlassian.net/wiki/spaces/GTS/pages/760676531)
 
-Contact us
-----------
+## Contact us
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-  
-
-Attachments:
-------------
+## Attachments:
 
 ![](images/icons/bullet_blue.gif) [image-20210318-112610.png](attachments/602570761/602439691.png) (image/png)  
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-03-11 at 16.04.12.png](attachments/602570761/602570784.png) (image/png)  
@@ -221,4 +192,4 @@ Attachments:
 ![](images/icons/bullet_blue.gif) [Screenshot 2021-05-26 at 18.01.29.png](attachments/602570761/730136607.png) (image/png)  
 ![](images/icons/bullet_blue.gif) [Stephen.jpg](attachments/602570761/731840532.jpg) (image/jpeg)  
 ![](images/icons/bullet_blue.gif) [169poppin.jpg](attachments/602570761/758677738.jpg) (image/jpeg)  
-![](images/icons/bullet_blue.gif) [subtitles\_shelter\_2.jpg](attachments/602570761/792625246.jpg) (image/jpeg)
+![](images/icons/bullet_blue.gif) [subtitles_shelter_2.jpg](attachments/602570761/792625246.jpg) (image/jpeg)

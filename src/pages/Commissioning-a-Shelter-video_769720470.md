@@ -10,11 +10,9 @@ Like most things, the key to doing video well is in proper planning. Shelter has
 
 If you’re commissioning a video using Shelter’s video team or external filmmakers, please read our process (below) for producing quality videos that meet our standards.
 
-The process
------------
+## The process
 
 1.  **Briefing** \- If you have one or more videos your team needs produced, please complete and submit Shelter’s video brief. You can download it below. Once you’ve completed it, use our [video request form](https://forms.office.com/Pages/ResponsePage.aspx?id=gCAAK3_gpE-WU1S_fGTCq7anKCJ6eBZAnytvTdE-35tUQUdMUFNMR01CTFBHWkFaWjFUMTQ3SDFOTy4u) to submit it **no later than three weeks** before the end of each calendar quarter, to be produced in the following quarter.
-    
 
 [![](attachments/thumbnails/769720470/779649205)](attachments/769720470/779649205.docx)
 
@@ -34,9 +32,9 @@ NOTE: In addition to supplying the main video file, please ask the production co
 
 **6\. Performance and measurement** - Based on the success metrics outlined in your brief, such as audience engagement and conversion figures, you’ll measure and evaluate how the video performed. We encourage producers and video commissioners to organise washups and project appraisals.
 
-Other video guides  
+Other video guides
 
----------------------
+---
 
 ![](images/icons/grey_arrow_down.png)Filming basics, a practical guide
 
@@ -56,30 +54,27 @@ Supers are titles, text, or graphics added to video. They can add value for vie
 ![](images/icons/grey_arrow_down.png)Case study videos
 
 This guide will help filmmakers and partners produce stories in Shelter’s style of observational and participatory documentary videos.  
-[Read more](630358245.html) 
+[Read more](630358245.html)
 
 ![](images/icons/grey_arrow_down.png)Essential documents
 
 A range of mandatory docs (such as a COVID statement), guides and tools for your production.  
 [Read more](Essential-production-documents_807633054.html)
 
-* * *
+---
 
-Related
--------
+## Related
 
 Read our other [content guides](Guides_442138636.html)
 
 Learn the language with our [digital glossary](https://design.shelter.org.uk/digital-framework/Shelter's-digital-glossary.712245258.html)
 
-Contact us about the digital framework
---------------------------------------
+## Contact us about the digital framework
 
 Have a question or comment? Found a bug? Or maybe you’d like to contribute to the framework? [Use our contact form](https://england.shelter.org.uk/contact_us_about_the_digital_framework) to get in touch.
 
-Attachments:
-------------
+## Attachments:
 
-![](images/icons/bullet_blue.gif) [VIDEO BRIEF\_2021\_Q2 (002).docx](attachments/769720470/779452551.docx) (application/vnd.openxmlformats-officedocument.wordprocessingml.document)  
-![](images/icons/bullet_blue.gif) [VIDEO BRIEF\_2021\_Q2 (002).docx](attachments/769720470/766149089.docx) (application/vnd.openxmlformats-officedocument.wordprocessingml.document)  
-![](images/icons/bullet_blue.gif) [VIDEO\_BRIEF\_2021.docx](attachments/769720470/779649205.docx) (application/vnd.openxmlformats-officedocument.wordprocessingml.document)
+![](images/icons/bullet_blue.gif) [VIDEO BRIEF_2021_Q2 (002).docx](attachments/769720470/779452551.docx) (application/vnd.openxmlformats-officedocument.wordprocessingml.document)  
+![](images/icons/bullet_blue.gif) [VIDEO BRIEF_2021_Q2 (002).docx](attachments/769720470/766149089.docx) (application/vnd.openxmlformats-officedocument.wordprocessingml.document)  
+![](images/icons/bullet_blue.gif) [VIDEO_BRIEF_2021.docx](attachments/769720470/779649205.docx) (application/vnd.openxmlformats-officedocument.wordprocessingml.document)
