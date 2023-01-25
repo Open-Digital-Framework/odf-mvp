@@ -30,10 +30,11 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-// export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/tree/main/examples/docs`;
+export const GITHUB_EDIT_URL = `https://github.com/Open-Digital-Framework/odf-mvp/tree/main`;
+
 // export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
 
-export const GITHUB_EDIT_URL = false;
+//  export const GITHUB_EDIT_URL = false;
 export const COMMUNITY_INVITE_URL = false;
 
 // See "Algolia" section of the README for more information.
@@ -49,7 +50,7 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
   en: {
-    Contents: [
+    "Section 1": [
       {
         text: "Intro: Being a modern charity in a digital world",
         link: "393871368",
@@ -82,6 +83,8 @@ export const SIDEBAR: Sidebar = {
         text: "Content operations: the hidden superpower of digital delivery",
         link: "968392705",
       },
+    ],
+    "Section 2": [
       {
         text: "A framework for golden thread digital working in the third sector",
         link: "A-framework-for-golden-thread-digital-working-in-the-third-sector_890273795",
